@@ -1,0 +1,1 @@
+Exploration and analysis codebase for the Math + Digital Humanities UROP. We are initially examining the ![VEP Early Modern Science Collection](https://pages.graphics.cs.wisc.edu/VEPHugo/corpora/earlymodernscience/).
