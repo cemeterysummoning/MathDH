@@ -1,0 +1,4548 @@
+{
+    "A00429.headed.txt": {
+        "name": "1570-Euclid.; Dee",
+        "bignames_cluster": [],
+        "superscience_cluster": [],
+        "bignames_connectivity": [],
+        "super_connectivity": [],
+        "year": 1570
+    },
+    "A01014.headed.txt": {
+        "name": "1631-Fludd",
+        "bignames_cluster": [
+            "cube81_cluster0",
+            "cube91_cluster0"
+        ],
+        "superscience_cluster": [
+            "cube109_cluster0"
+        ],
+        "bignames_connectivity": [
+            5,
+            1
+        ],
+        "super_connectivity": [
+            6
+        ],
+        "year": 1631
+    },
+    "A01089.headed.txt": {
+        "name": "1638-Foster",
+        "bignames_cluster": [
+            "cube11_cluster0",
+            "cube19_cluster0"
+        ],
+        "superscience_cluster": [
+            "cube42_cluster0"
+        ],
+        "bignames_connectivity": [
+            2,
+            1
+        ],
+        "super_connectivity": [
+            6
+        ],
+        "year": 1638
+    },
+    "A01185.headed.txt": {
+        "name": "1619-Bacon",
+        "bignames_cluster": [],
+        "superscience_cluster": [
+            "cube126_cluster0"
+        ],
+        "bignames_connectivity": [],
+        "super_connectivity": [
+            5
+        ],
+        "year": 1619
+    },
+    "A01410.headed.txt": {
+        "name": "1586-Galen.; Gale",
+        "bignames_cluster": [
+            "cube80_cluster0"
+        ],
+        "superscience_cluster": [
+            "cube108_cluster0",
+            "cube123_cluster0"
+        ],
+        "bignames_connectivity": [
+            2
+        ],
+        "super_connectivity": [
+            5,
+            4
+        ],
+        "year": 1586
+    },
+    "A01446.headed.txt": {
+        "name": "1638-Bacon",
+        "bignames_cluster": [],
+        "superscience_cluster": [
+            "cube73_cluster0",
+            "cube74_cluster0"
+        ],
+        "bignames_connectivity": [],
+        "super_connectivity": [
+            6,
+            5
+        ],
+        "year": 1638
+    },
+    "A01454.headed.txt": {
+        "name": "1638-Bacon",
+        "bignames_cluster": [
+            "cube59_cluster0"
+        ],
+        "superscience_cluster": [
+            "cube83_cluster0",
+            "cube84_cluster0"
+        ],
+        "bignames_connectivity": [
+            4
+        ],
+        "super_connectivity": [
+            6,
+            7
+        ],
+        "year": 1638
+    },
+    "A01516.headed.txt": {
+        "name": "1605-Bacon",
+        "bignames_cluster": [],
+        "superscience_cluster": [
+            "cube122_cluster0",
+            "cube123_cluster0"
+        ],
+        "bignames_connectivity": [],
+        "super_connectivity": [
+            4,
+            4
+        ],
+        "year": 1605
+    },
+    "A01552.headed.txt": {
+        "name": "1627-Bacon",
+        "bignames_cluster": [
+            "cube58_cluster0"
+        ],
+        "superscience_cluster": [
+            "cube82_cluster0"
+        ],
+        "bignames_connectivity": [
+            4
+        ],
+        "super_connectivity": [
+            6
+        ],
+        "year": 1627
+    },
+    "A01586.headed.txt": {
+        "name": "1635-Gellibrand",
+        "bignames_cluster": [
+            "cube30_cluster0"
+        ],
+        "superscience_cluster": [
+            "cube69_cluster0"
+        ],
+        "bignames_connectivity": [
+            1
+        ],
+        "super_connectivity": [
+            3
+        ],
+        "year": 1635
+    },
+    "A01658.headed.txt": {
+        "name": "1576-Gesner",
+        "bignames_cluster": [],
+        "superscience_cluster": [
+            "cube47_cluster0"
+        ],
+        "bignames_connectivity": [],
+        "super_connectivity": [
+            3
+        ],
+        "year": 1576
+    },
+    "A01661.headed.txt": {
+        "name": "1550-Bacon",
+        "bignames_cluster": [],
+        "superscience_cluster": [
+            "cube50_cluster0"
+        ],
+        "bignames_connectivity": [],
+        "super_connectivity": [
+            0
+        ],
+        "year": 1550
+    },
+    "A01662.headed.txt": {
+        "name": "1559-Gesner",
+        "bignames_cluster": [],
+        "superscience_cluster": [
+            "cube59_cluster0"
+        ],
+        "bignames_connectivity": [],
+        "super_connectivity": [
+            5
+        ],
+        "year": 1559
+    },
+    "A01683.headed.txt": {
+        "name": "1597-Bacon",
+        "bignames_cluster": [
+            "cube80_cluster0"
+        ],
+        "superscience_cluster": [
+            "cube108_cluster0"
+        ],
+        "bignames_connectivity": [
+            2
+        ],
+        "super_connectivity": [
+            5
+        ],
+        "year": 1597
+    },
+    "A01933.headed.txt": {
+        "name": "1618-Bainbridge",
+        "bignames_cluster": [
+            "cube58_cluster0",
+            "cube69_cluster0"
+        ],
+        "superscience_cluster": [
+            "cube96_cluster0"
+        ],
+        "bignames_connectivity": [
+            4,
+            1
+        ],
+        "super_connectivity": [
+            7
+        ],
+        "year": 1618
+    },
+    "A02157.headed.txt": {
+        "name": "1585-Greene",
+        "bignames_cluster": [],
+        "superscience_cluster": [],
+        "bignames_connectivity": [],
+        "super_connectivity": [],
+        "year": 1585
+    },
+    "A03089.headed.txt": {
+        "name": "1590-Paracelsus",
+        "bignames_cluster": [],
+        "superscience_cluster": [
+            "cube110_cluster0"
+        ],
+        "bignames_connectivity": [],
+        "super_connectivity": [
+            6
+        ],
+        "year": 1590
+    },
+    "A03362.headed.txt": {
+        "name": "1613-Hill",
+        "bignames_cluster": [],
+        "superscience_cluster": [],
+        "bignames_connectivity": [],
+        "super_connectivity": [],
+        "year": 1613
+    },
+    "A03363.headed.txt": {
+        "name": "1574-Hill",
+        "bignames_cluster": [],
+        "superscience_cluster": [
+            "cube72_cluster0"
+        ],
+        "bignames_connectivity": [],
+        "super_connectivity": [
+            7
+        ],
+        "year": 1574
+    },
+    "A03378.headed.txt": {
+        "name": "1576-Hill",
+        "bignames_cluster": [],
+        "superscience_cluster": [],
+        "bignames_connectivity": [],
+        "super_connectivity": [],
+        "year": 1576
+    },
+    "A03380.headed.txt": {
+        "name": "1599-Hill",
+        "bignames_cluster": [
+            "cube21_cluster0"
+        ],
+        "superscience_cluster": [
+            "cube56_cluster0"
+        ],
+        "bignames_connectivity": [
+            1
+        ],
+        "super_connectivity": [
+            1
+        ],
+        "year": 1599
+    },
+    "A03573.headed.txt": {
+        "name": "1588-Hood",
+        "bignames_cluster": [],
+        "superscience_cluster": [],
+        "bignames_connectivity": [],
+        "super_connectivity": [],
+        "year": 1588
+    },
+    "A03576.headed.txt": {
+        "name": "1592-Hood",
+        "bignames_cluster": [],
+        "superscience_cluster": [
+            "cube67_cluster0"
+        ],
+        "bignames_connectivity": [],
+        "super_connectivity": [
+            2
+        ],
+        "year": 1592
+    },
+    "A04327.headed.txt": {
+        "name": "1618-Barlow",
+        "bignames_cluster": [],
+        "superscience_cluster": [
+            "cube94_cluster0"
+        ],
+        "bignames_connectivity": [],
+        "super_connectivity": [
+            4
+        ],
+        "year": 1618
+    },
+    "A08583.headed.txt": {
+        "name": "1632-Oughtred",
+        "bignames_cluster": [],
+        "superscience_cluster": [
+            "cube28_cluster0"
+        ],
+        "bignames_connectivity": [],
+        "super_connectivity": [
+            3
+        ],
+        "year": 1632
+    },
+    "A08584.headed.txt": {
+        "name": "1633-Oughtred",
+        "bignames_cluster": [
+            "cube19_cluster0"
+        ],
+        "superscience_cluster": [
+            "cube42_cluster0"
+        ],
+        "bignames_connectivity": [
+            1
+        ],
+        "super_connectivity": [
+            6
+        ],
+        "year": 1633
+    },
+    "A08588.headed.txt": {
+        "name": "1633-Oughtred",
+        "bignames_cluster": [],
+        "superscience_cluster": [],
+        "bignames_connectivity": [],
+        "super_connectivity": [],
+        "year": 1633
+    },
+    "A08904.headed.txt": {
+        "name": "1596-Paracelsus",
+        "bignames_cluster": [
+            "cube49_cluster0"
+        ],
+        "superscience_cluster": [
+            "cube73_cluster0"
+        ],
+        "bignames_connectivity": [
+            3
+        ],
+        "super_connectivity": [
+            6
+        ],
+        "year": 1596
+    },
+    "A08906.headed.txt": {
+        "name": "1633-Paracelsus",
+        "bignames_cluster": [],
+        "superscience_cluster": [
+            "cube61_cluster0"
+        ],
+        "bignames_connectivity": [],
+        "super_connectivity": [
+            5
+        ],
+        "year": 1633
+    },
+    "A08911.headed.txt": {
+        "name": "1634-Par\u00c3\u00a9",
+        "bignames_cluster": [
+            "cube49_cluster0"
+        ],
+        "superscience_cluster": [
+            "cube84_cluster0"
+        ],
+        "bignames_connectivity": [
+            3
+        ],
+        "super_connectivity": [
+            7
+        ],
+        "year": 1634
+    },
+    "A08912.headed.txt": {
+        "name": "1617-Par\u00c3\u00a9",
+        "bignames_cluster": [
+            "cube81_cluster0"
+        ],
+        "superscience_cluster": [
+            "cube109_cluster0"
+        ],
+        "bignames_connectivity": [
+            5
+        ],
+        "super_connectivity": [
+            6
+        ],
+        "year": 1617
+    },
+    "A08913.headed.txt": {
+        "name": "1630-Par\u00c3\u00a9",
+        "bignames_cluster": [
+            "cube50_cluster0"
+        ],
+        "superscience_cluster": [
+            "cube73_cluster0"
+        ],
+        "bignames_connectivity": [
+            3
+        ],
+        "super_connectivity": [
+            6
+        ],
+        "year": 1630
+    },
+    "A09763.headed.txt": {
+        "name": "1634-Pliny",
+        "bignames_cluster": [
+            "cube48_cluster0"
+        ],
+        "superscience_cluster": [
+            "cube71_cluster0",
+            "cube83_cluster0"
+        ],
+        "bignames_connectivity": [
+            3
+        ],
+        "super_connectivity": [
+            6,
+            6
+        ],
+        "year": 1634
+    },
+    "A09765.headed.txt": {
+        "name": "1566-Pliny",
+        "bignames_cluster": [],
+        "superscience_cluster": [
+            "cube74_cluster0"
+        ],
+        "bignames_connectivity": [],
+        "super_connectivity": [
+            5
+        ],
+        "year": 1566
+    },
+    "A09766.headed.txt": {
+        "name": "1585-Pliny",
+        "bignames_cluster": [],
+        "superscience_cluster": [
+            "cube74_cluster0"
+        ],
+        "bignames_connectivity": [],
+        "super_connectivity": [
+            5
+        ],
+        "year": 1585
+    },
+    "A10201.headed.txt": {
+        "name": "1530-Ptolemy",
+        "bignames_cluster": [],
+        "superscience_cluster": [
+            "cube73_cluster0"
+        ],
+        "bignames_connectivity": [],
+        "super_connectivity": [
+            6
+        ],
+        "year": 1530
+    },
+    "A10504.headed.txt": {
+        "name": "1551-Vesalius",
+        "bignames_cluster": [
+            "cube48_cluster0"
+        ],
+        "superscience_cluster": [
+            "cube71_cluster0",
+            "cube72_cluster0",
+            "cube83_cluster0",
+            "cube84_cluster0"
+        ],
+        "bignames_connectivity": [
+            3
+        ],
+        "super_connectivity": [
+            6,
+            7,
+            6,
+            7
+        ],
+        "year": 1551
+    },
+    "A10541.headed.txt": {
+        "name": "1551-Record",
+        "bignames_cluster": [],
+        "superscience_cluster": [
+            "cube66_cluster0"
+        ],
+        "bignames_connectivity": [],
+        "super_connectivity": [
+            0
+        ],
+        "year": 1551
+    },
+    "A11920.headed.txt": {
+        "name": "1637-Sennerts",
+        "bignames_cluster": [],
+        "superscience_cluster": [
+            "cube95_cluster0"
+        ],
+        "bignames_connectivity": [],
+        "super_connectivity": [
+            7
+        ],
+        "year": 1637
+    },
+    "A15363.headed.txt": {
+        "name": "1638-Wilkins",
+        "bignames_cluster": [
+            "cube87_cluster0"
+        ],
+        "superscience_cluster": [
+            "cube121_cluster0"
+        ],
+        "bignames_connectivity": [
+            1
+        ],
+        "super_connectivity": [
+            3
+        ],
+        "year": 1638
+    },
+    "A15364.headed.txt": {
+        "name": "1640-Wilkins",
+        "bignames_cluster": [],
+        "superscience_cluster": [
+            "cube120_cluster0"
+        ],
+        "bignames_connectivity": [],
+        "super_connectivity": [
+            1
+        ],
+        "year": 1640
+    },
+    "A15531.headed.txt": {
+        "name": "1560-Albertus",
+        "bignames_cluster": [],
+        "superscience_cluster": [
+            "cube60_cluster0"
+        ],
+        "bignames_connectivity": [],
+        "super_connectivity": [
+            5
+        ],
+        "year": 1560
+    },
+    "A16193.headed.txt": {
+        "name": "1597-Blagrave",
+        "bignames_cluster": [],
+        "superscience_cluster": [
+            "cube57_cluster0"
+        ],
+        "bignames_connectivity": [],
+        "super_connectivity": [
+            2
+        ],
+        "year": 1597
+    },
+    "A16195.headed.txt": {
+        "name": "1596-Blagrave",
+        "bignames_cluster": [],
+        "superscience_cluster": [
+            "cube57_cluster0"
+        ],
+        "bignames_connectivity": [],
+        "super_connectivity": [
+            2
+        ],
+        "year": 1596
+    },
+    "A16196.headed.txt": {
+        "name": "1590-Blagrave",
+        "bignames_cluster": [],
+        "superscience_cluster": [
+            "cube68_cluster0"
+        ],
+        "bignames_connectivity": [],
+        "super_connectivity": [
+            2
+        ],
+        "year": 1590
+    },
+    "A16221.headed.txt": {
+        "name": "1594-Blundeville",
+        "bignames_cluster": [
+            "cube20_cluster0"
+        ],
+        "superscience_cluster": [
+            "cube56_cluster0"
+        ],
+        "bignames_connectivity": [
+            0
+        ],
+        "super_connectivity": [
+            1
+        ],
+        "year": 1594
+    },
+    "A16236.headed.txt": {
+        "name": "1602-Blundeville",
+        "bignames_cluster": [
+            "cube20_cluster0"
+        ],
+        "superscience_cluster": [
+            "cube56_cluster0"
+        ],
+        "bignames_connectivity": [
+            0
+        ],
+        "super_connectivity": [
+            1
+        ],
+        "year": 1602
+    },
+    "A16631.headed.txt": {
+        "name": "1632-Brahe",
+        "bignames_cluster": [
+            "cube89_cluster0"
+        ],
+        "superscience_cluster": [
+            "cube123_cluster0"
+        ],
+        "bignames_connectivity": [
+            1
+        ],
+        "super_connectivity": [
+            4
+        ],
+        "year": 1632
+    },
+    "A17310.headed.txt": {
+        "name": "1621-Burton",
+        "bignames_cluster": [],
+        "superscience_cluster": [
+            "cube99_cluster0"
+        ],
+        "bignames_connectivity": [],
+        "super_connectivity": [
+            6
+        ],
+        "year": 1621
+    },
+    "A17535.headed.txt": {
+        "name": "1552-Caius",
+        "bignames_cluster": [
+            "cube70_cluster0"
+        ],
+        "superscience_cluster": [
+            "cube97_cluster0"
+        ],
+        "bignames_connectivity": [
+            4
+        ],
+        "super_connectivity": [
+            7
+        ],
+        "year": 1552
+    },
+    "A17539.headed.txt": {
+        "name": "1576-Caius",
+        "bignames_cluster": [],
+        "superscience_cluster": [
+            "cube96_cluster0",
+            "cube97_cluster0"
+        ],
+        "bignames_connectivity": [],
+        "super_connectivity": [
+            7,
+            7
+        ],
+        "year": 1576
+    },
+    "A17556.headed.txt": {
+        "name": "1555-Digges",
+        "bignames_cluster": [],
+        "superscience_cluster": [
+            "cube31_cluster0"
+        ],
+        "bignames_connectivity": [],
+        "super_connectivity": [
+            2
+        ],
+        "year": 1555
+    },
+    "A20021.headed.txt": {
+        "name": "1599-Dee",
+        "bignames_cluster": [],
+        "superscience_cluster": [],
+        "bignames_connectivity": [],
+        "super_connectivity": [],
+        "year": 1599
+    },
+    "A20450.headed.txt": {
+        "name": "1562-Digges",
+        "bignames_cluster": [],
+        "superscience_cluster": [
+            "cube29_cluster0"
+        ],
+        "bignames_connectivity": [],
+        "super_connectivity": [
+            1
+        ],
+        "year": 1562
+    },
+    "A20458.headed.txt": {
+        "name": "1571-Digges",
+        "bignames_cluster": [
+            "cube20_cluster0"
+        ],
+        "superscience_cluster": [
+            "cube43_cluster0"
+        ],
+        "bignames_connectivity": [
+            0
+        ],
+        "super_connectivity": [
+            4
+        ],
+        "year": 1571
+    },
+    "K029412.000.txt": {
+        "name": "1702-Newton",
+        "bignames_cluster": [],
+        "superscience_cluster": [
+            "cube57_cluster0"
+        ],
+        "bignames_connectivity": [],
+        "super_connectivity": [
+            2
+        ],
+        "year": 1702
+    },
+    "A26564.headed.txt": {
+        "name": "1665-Agrippa von Nettesheim",
+        "bignames_cluster": [
+            "cube71_cluster0",
+            "cube82_cluster0"
+        ],
+        "superscience_cluster": [
+            "cube97_cluster0"
+        ],
+        "bignames_connectivity": [
+            4,
+            4
+        ],
+        "super_connectivity": [
+            7
+        ],
+        "year": 1665
+    },
+    "A26565.headed.txt": {
+        "name": "1651-Agrippa von Nettesheim",
+        "bignames_cluster": [
+            "cube71_cluster0"
+        ],
+        "superscience_cluster": [
+            "cube96_cluster0"
+        ],
+        "bignames_connectivity": [
+            4
+        ],
+        "super_connectivity": [
+            7
+        ],
+        "year": 1651
+    },
+    "A26566.headed.txt": {
+        "name": "1676-Agrippa von Nettesheim",
+        "bignames_cluster": [],
+        "superscience_cluster": [
+            "cube140_cluster0"
+        ],
+        "bignames_connectivity": [],
+        "super_connectivity": [
+            4
+        ],
+        "year": 1676
+    },
+    "A28024.headed.txt": {
+        "name": "1679-Bacon",
+        "bignames_cluster": [
+            "cube69_cluster0"
+        ],
+        "superscience_cluster": [
+            "cube96_cluster0"
+        ],
+        "bignames_connectivity": [
+            1
+        ],
+        "super_connectivity": [
+            7
+        ],
+        "year": 1679
+    },
+    "A28284.headed.txt": {
+        "name": "1671-Bacon",
+        "bignames_cluster": [],
+        "superscience_cluster": [
+            "cube69_cluster0",
+            "cube81_cluster0"
+        ],
+        "bignames_connectivity": [],
+        "super_connectivity": [
+            3,
+            4
+        ],
+        "year": 1671
+    },
+    "A28291.headed.txt": {
+        "name": "1658-Bacon",
+        "bignames_cluster": [],
+        "superscience_cluster": [
+            "cube110_cluster0"
+        ],
+        "bignames_connectivity": [],
+        "super_connectivity": [
+            6
+        ],
+        "year": 1658
+    },
+    "A28309.headed.txt": {
+        "name": "1676-Bacon",
+        "bignames_cluster": [],
+        "superscience_cluster": [
+            "cube120_cluster0"
+        ],
+        "bignames_connectivity": [],
+        "super_connectivity": [
+            1
+        ],
+        "year": 1676
+    },
+    "A28315.headed.txt": {
+        "name": "1671-Blagrave",
+        "bignames_cluster": [
+            "cube60_cluster0",
+            "cube61_cluster0"
+        ],
+        "superscience_cluster": [
+            "cube85_cluster0"
+        ],
+        "bignames_connectivity": [
+            3,
+            4
+        ],
+        "super_connectivity": [
+            7
+        ],
+        "year": 1671
+    },
+    "A28326.headed.txt": {
+        "name": "1674-Blagrave",
+        "bignames_cluster": [],
+        "superscience_cluster": [],
+        "bignames_connectivity": [],
+        "super_connectivity": [],
+        "year": 1674
+    },
+    "A28366.headed.txt": {
+        "name": "1670-Bacon",
+        "bignames_cluster": [],
+        "superscience_cluster": [],
+        "bignames_connectivity": [],
+        "super_connectivity": [],
+        "year": 1670
+    },
+    "A28630.headed.txt": {
+        "name": "1660-Paracelsus",
+        "bignames_cluster": [
+            "cube57_cluster0"
+        ],
+        "superscience_cluster": [
+            "cube94_cluster0"
+        ],
+        "bignames_connectivity": [
+            1
+        ],
+        "super_connectivity": [
+            4
+        ],
+        "year": 1660
+    },
+    "A28633.headed.txt": {
+        "name": "1659-Paracelsus",
+        "bignames_cluster": [
+            "cube81_cluster0"
+        ],
+        "superscience_cluster": [
+            "cube109_cluster0"
+        ],
+        "bignames_connectivity": [
+            5
+        ],
+        "super_connectivity": [
+            6
+        ],
+        "year": 1659
+    },
+    "A28634.headed.txt": {
+        "name": "1653-Paracelsus",
+        "bignames_cluster": [
+            "cube58_cluster0"
+        ],
+        "superscience_cluster": [
+            "cube81_cluster0",
+            "cube82_cluster0",
+            "cube94_cluster0",
+            "cube95_cluster0"
+        ],
+        "bignames_connectivity": [
+            4
+        ],
+        "super_connectivity": [
+            4,
+            6,
+            4,
+            7
+        ],
+        "year": 1653
+    },
+    "A28798.headed.txt": {
+        "name": "1659-Bacon",
+        "bignames_cluster": [
+            "cube80_cluster0",
+            "cube81_cluster0"
+        ],
+        "superscience_cluster": [
+            "cube108_cluster0",
+            "cube109_cluster0"
+        ],
+        "bignames_connectivity": [
+            2,
+            5
+        ],
+        "super_connectivity": [
+            5,
+            6
+        ],
+        "year": 1659
+    },
+    "A28938.headed.txt": {
+        "name": "1680-Boyle",
+        "bignames_cluster": [],
+        "superscience_cluster": [
+            "cube123_cluster0"
+        ],
+        "bignames_connectivity": [],
+        "super_connectivity": [
+            4
+        ],
+        "year": 1680
+    },
+    "A28939.headed.txt": {
+        "name": "1674-Boyle",
+        "bignames_cluster": [
+            "cube77_cluster0"
+        ],
+        "superscience_cluster": [
+            "cube107_cluster0"
+        ],
+        "bignames_connectivity": [
+            1
+        ],
+        "super_connectivity": [
+            4
+        ],
+        "year": 1674
+    },
+    "A28944.headed.txt": {
+        "name": "1669-Boyle",
+        "bignames_cluster": [
+            "cube87_cluster0",
+            "cube97_cluster0"
+        ],
+        "superscience_cluster": [
+            "cube136_cluster0"
+        ],
+        "bignames_connectivity": [
+            1,
+            1
+        ],
+        "super_connectivity": [
+            3
+        ],
+        "year": 1669
+    },
+    "A28945.headed.txt": {
+        "name": "1690-Boyle",
+        "bignames_cluster": [
+            "cube108_cluster0"
+        ],
+        "superscience_cluster": [
+            "cube149_cluster0"
+        ],
+        "bignames_connectivity": [
+            0
+        ],
+        "super_connectivity": [
+            1
+        ],
+        "year": 1690
+    },
+    "A28949.headed.txt": {
+        "name": "1669-Boyle",
+        "bignames_cluster": [
+            "cube66_cluster0"
+        ],
+        "superscience_cluster": [
+            "cube107_cluster0"
+        ],
+        "bignames_connectivity": [
+            0
+        ],
+        "super_connectivity": [
+            4
+        ],
+        "year": 1669
+    },
+    "A28956.headed.txt": {
+        "name": "1662-Boyle",
+        "bignames_cluster": [],
+        "superscience_cluster": [],
+        "bignames_connectivity": [],
+        "super_connectivity": [],
+        "year": 1662
+    },
+    "A28959.headed.txt": {
+        "name": "1672-Boyle",
+        "bignames_cluster": [],
+        "superscience_cluster": [],
+        "bignames_connectivity": [],
+        "super_connectivity": [],
+        "year": 1672
+    },
+    "A28961.headed.txt": {
+        "name": "1685-Boyle",
+        "bignames_cluster": [],
+        "superscience_cluster": [
+            "cube123_cluster0"
+        ],
+        "bignames_connectivity": [],
+        "super_connectivity": [
+            4
+        ],
+        "year": 1685
+    },
+    "A28965.headed.txt": {
+        "name": "1673-Boyle",
+        "bignames_cluster": [
+            "cube77_cluster0"
+        ],
+        "superscience_cluster": [
+            "cube107_cluster0",
+            "cube122_cluster0"
+        ],
+        "bignames_connectivity": [
+            1
+        ],
+        "super_connectivity": [
+            4,
+            4
+        ],
+        "year": 1673
+    },
+    "A28966.headed.txt": {
+        "name": "1674-Boyle",
+        "bignames_cluster": [
+            "cube108_cluster0"
+        ],
+        "superscience_cluster": [
+            "cube149_cluster0"
+        ],
+        "bignames_connectivity": [
+            0
+        ],
+        "super_connectivity": [
+            1
+        ],
+        "year": 1674
+    },
+    "A28968.headed.txt": {
+        "name": "1691-Boyle",
+        "bignames_cluster": [
+            "cube78_cluster0"
+        ],
+        "superscience_cluster": [
+            "cube109_cluster0"
+        ],
+        "bignames_connectivity": [
+            2
+        ],
+        "super_connectivity": [
+            6
+        ],
+        "year": 1691
+    },
+    "A28974.headed.txt": {
+        "name": "1684-Boyle",
+        "bignames_cluster": [
+            "cube78_cluster0"
+        ],
+        "superscience_cluster": [
+            "cube107_cluster0",
+            "cube122_cluster0"
+        ],
+        "bignames_connectivity": [
+            2
+        ],
+        "super_connectivity": [
+            4,
+            4
+        ],
+        "year": 1684
+    },
+    "A28975.headed.txt": {
+        "name": "1664-Boyle",
+        "bignames_cluster": [
+            "cube77_cluster0"
+        ],
+        "superscience_cluster": [
+            "cube106_cluster0",
+            "cube107_cluster0"
+        ],
+        "bignames_connectivity": [
+            1
+        ],
+        "super_connectivity": [
+            3,
+            4
+        ],
+        "year": 1664
+    },
+    "A28980.headed.txt": {
+        "name": "1676-Boyle",
+        "bignames_cluster": [
+            "cube77_cluster0"
+        ],
+        "superscience_cluster": [
+            "cube121_cluster0",
+            "cube122_cluster0"
+        ],
+        "bignames_connectivity": [
+            1
+        ],
+        "super_connectivity": [
+            3,
+            4
+        ],
+        "year": 1676
+    },
+    "A28982.headed.txt": {
+        "name": "1686-Boyle",
+        "bignames_cluster": [
+            "cube87_cluster0",
+            "cube97_cluster0"
+        ],
+        "superscience_cluster": [
+            "cube135_cluster0"
+        ],
+        "bignames_connectivity": [
+            1,
+            1
+        ],
+        "super_connectivity": [
+            2
+        ],
+        "year": 1686
+    },
+    "A28984.headed.txt": {
+        "name": "1692-Boyle",
+        "bignames_cluster": [],
+        "superscience_cluster": [],
+        "bignames_connectivity": [],
+        "super_connectivity": [],
+        "year": 1692
+    },
+    "A28985.headed.txt": {
+        "name": "1692-Boyle",
+        "bignames_cluster": [
+            "cube57_cluster0"
+        ],
+        "superscience_cluster": [
+            "cube82_cluster0"
+        ],
+        "bignames_connectivity": [
+            1
+        ],
+        "super_connectivity": [
+            6
+        ],
+        "year": 1692
+    },
+    "K040019.000.txt": {
+        "name": "1714-Whiston",
+        "bignames_cluster": [],
+        "superscience_cluster": [],
+        "bignames_connectivity": [],
+        "super_connectivity": [],
+        "year": 1714
+    },
+    "A28988.headed.txt": {
+        "name": "1678-Boyle",
+        "bignames_cluster": [],
+        "superscience_cluster": [],
+        "bignames_connectivity": [],
+        "super_connectivity": [],
+        "year": 1678
+    },
+    "A28989.headed.txt": {
+        "name": "1666-Boyle",
+        "bignames_cluster": [
+            "cube54_cluster0"
+        ],
+        "superscience_cluster": [
+            "cube92_cluster0",
+            "cube93_cluster0"
+        ],
+        "bignames_connectivity": [
+            0
+        ],
+        "super_connectivity": [
+            4,
+            3
+        ],
+        "year": 1666
+    },
+    "A28991.headed.txt": {
+        "name": "1690-Boyle",
+        "bignames_cluster": [],
+        "superscience_cluster": [],
+        "bignames_connectivity": [],
+        "super_connectivity": [],
+        "year": 1690
+    },
+    "A28994.headed.txt": {
+        "name": "1693-Boyle",
+        "bignames_cluster": [],
+        "superscience_cluster": [
+            "cube49_cluster0"
+        ],
+        "bignames_connectivity": [],
+        "super_connectivity": [
+            5
+        ],
+        "year": 1693
+    },
+    "A28998.headed.txt": {
+        "name": "1683-Boyle",
+        "bignames_cluster": [
+            "cube67_cluster0"
+        ],
+        "superscience_cluster": [
+            "cube107_cluster0",
+            "cube108_cluster0"
+        ],
+        "bignames_connectivity": [
+            1
+        ],
+        "super_connectivity": [
+            4,
+            5
+        ],
+        "year": 1683
+    },
+    "A29000.headed.txt": {
+        "name": "1682-Boyle",
+        "bignames_cluster": [
+            "cube67_cluster0",
+            "cube78_cluster0"
+        ],
+        "superscience_cluster": [
+            "cube108_cluster0"
+        ],
+        "bignames_connectivity": [
+            1,
+            2
+        ],
+        "super_connectivity": [
+            5
+        ],
+        "year": 1682
+    },
+    "A29001.headed.txt": {
+        "name": "1665-Boyle",
+        "bignames_cluster": [
+            "cube78_cluster0"
+        ],
+        "superscience_cluster": [
+            "cube107_cluster0"
+        ],
+        "bignames_connectivity": [
+            2
+        ],
+        "super_connectivity": [
+            4
+        ],
+        "year": 1665
+    },
+    "A29003.headed.txt": {
+        "name": "1660-Boyle",
+        "bignames_cluster": [
+            "cube67_cluster0"
+        ],
+        "superscience_cluster": [
+            "cube107_cluster0",
+            "cube108_cluster0"
+        ],
+        "bignames_connectivity": [
+            1
+        ],
+        "super_connectivity": [
+            4,
+            5
+        ],
+        "year": 1660
+    },
+    "A29010.headed.txt": {
+        "name": "1665-Boyle",
+        "bignames_cluster": [],
+        "superscience_cluster": [
+            "cube153_cluster0"
+        ],
+        "bignames_connectivity": [],
+        "super_connectivity": [
+            0
+        ],
+        "year": 1665
+    },
+    "A29012.headed.txt": {
+        "name": "1674-Boyle",
+        "bignames_cluster": [
+            "cube55_cluster0"
+        ],
+        "superscience_cluster": [
+            "cube93_cluster0"
+        ],
+        "bignames_connectivity": [
+            0
+        ],
+        "super_connectivity": [
+            3
+        ],
+        "year": 1674
+    },
+    "A29016.headed.txt": {
+        "name": "1685-Boyle",
+        "bignames_cluster": [
+            "cube89_cluster0"
+        ],
+        "superscience_cluster": [
+            "cube123_cluster0"
+        ],
+        "bignames_connectivity": [
+            1
+        ],
+        "super_connectivity": [
+            4
+        ],
+        "year": 1685
+    },
+    "A29017.headed.txt": {
+        "name": "1666-Boyle",
+        "bignames_cluster": [
+            "cube87_cluster0"
+        ],
+        "superscience_cluster": [
+            "cube121_cluster0"
+        ],
+        "bignames_connectivity": [
+            1
+        ],
+        "super_connectivity": [
+            3
+        ],
+        "year": 1666
+    },
+    "A29024.headed.txt": {
+        "name": "1661-Boyle",
+        "bignames_cluster": [],
+        "superscience_cluster": [
+            "cube135_cluster0"
+        ],
+        "bignames_connectivity": [],
+        "super_connectivity": [
+            2
+        ],
+        "year": 1661
+    },
+    "A29026.headed.txt": {
+        "name": "1605-Boyle",
+        "bignames_cluster": [
+            "cube66_cluster0"
+        ],
+        "superscience_cluster": [
+            "cube94_cluster0"
+        ],
+        "bignames_connectivity": [
+            0
+        ],
+        "super_connectivity": [
+            4
+        ],
+        "year": 1605
+    },
+    "A29031.headed.txt": {
+        "name": "1663-Boyle",
+        "bignames_cluster": [
+            "cube89_cluster0"
+        ],
+        "superscience_cluster": [
+            "cube123_cluster0"
+        ],
+        "bignames_connectivity": [
+            1
+        ],
+        "super_connectivity": [
+            4
+        ],
+        "year": 1663
+    },
+    "A29048.headed.txt": {
+        "name": "1671-Boyle",
+        "bignames_cluster": [
+            "cube77_cluster0"
+        ],
+        "superscience_cluster": [
+            "cube107_cluster0"
+        ],
+        "bignames_connectivity": [
+            1
+        ],
+        "super_connectivity": [
+            4
+        ],
+        "year": 1671
+    },
+    "A29052.headed.txt": {
+        "name": "1674-Boyle",
+        "bignames_cluster": [
+            "cube77_cluster0",
+            "cube78_cluster0"
+        ],
+        "superscience_cluster": [
+            "cube107_cluster0"
+        ],
+        "bignames_connectivity": [
+            1,
+            2
+        ],
+        "super_connectivity": [
+            4
+        ],
+        "year": 1674
+    },
+    "A29057.headed.txt": {
+        "name": "1672-Boyle",
+        "bignames_cluster": [
+            "cube77_cluster0"
+        ],
+        "superscience_cluster": [
+            "cube122_cluster0"
+        ],
+        "bignames_connectivity": [
+            1
+        ],
+        "super_connectivity": [
+            4
+        ],
+        "year": 1672
+    },
+    "A29757.headed.txt": {
+        "name": "1669-Browne",
+        "bignames_cluster": [],
+        "superscience_cluster": [],
+        "bignames_connectivity": [],
+        "super_connectivity": [],
+        "year": 1669
+    },
+    "A29782.headed.txt": {
+        "name": "1657-Browne",
+        "bignames_cluster": [
+            "cube47_cluster0"
+        ],
+        "superscience_cluster": [
+            "cube81_cluster0"
+        ],
+        "bignames_connectivity": [
+            3
+        ],
+        "super_connectivity": [
+            4
+        ],
+        "year": 1657
+    },
+    "A29835.headed.txt": {
+        "name": "1684-Browne",
+        "bignames_cluster": [
+            "cube82_cluster0"
+        ],
+        "superscience_cluster": [
+            "cube97_cluster0",
+            "cube98_cluster0",
+            "cube110_cluster0",
+            "cube111_cluster0"
+        ],
+        "bignames_connectivity": [
+            4
+        ],
+        "super_connectivity": [
+            7,
+            7,
+            6,
+            5
+        ],
+        "year": 1684
+    },
+    "A29836.headed.txt": {
+        "name": "1678-Browne",
+        "bignames_cluster": [
+            "cube49_cluster0"
+        ],
+        "superscience_cluster": [
+            "cube72_cluster0"
+        ],
+        "bignames_connectivity": [
+            3
+        ],
+        "super_connectivity": [
+            7
+        ],
+        "year": 1678
+    },
+    "A29837.headed.txt": {
+        "name": "1678-Browne",
+        "bignames_cluster": [],
+        "superscience_cluster": [
+            "cube72_cluster0"
+        ],
+        "bignames_connectivity": [],
+        "super_connectivity": [
+            7
+        ],
+        "year": 1678
+    },
+    "A29838.headed.txt": {
+        "name": "1681-Browne",
+        "bignames_cluster": [],
+        "superscience_cluster": [
+            "cube45_cluster0"
+        ],
+        "bignames_connectivity": [],
+        "super_connectivity": [
+            3
+        ],
+        "year": 1681
+    },
+    "A29861.headed.txt": {
+        "name": "1646-Browne",
+        "bignames_cluster": [
+            "cube80_cluster0"
+        ],
+        "superscience_cluster": [
+            "cube108_cluster0"
+        ],
+        "bignames_connectivity": [
+            2
+        ],
+        "super_connectivity": [
+            5
+        ],
+        "year": 1646
+    },
+    "A29868.headed.txt": {
+        "name": "1642-Browne",
+        "bignames_cluster": [],
+        "superscience_cluster": [
+            "cube139_cluster0",
+            "cube152_cluster0"
+        ],
+        "bignames_connectivity": [],
+        "super_connectivity": [
+            5,
+            1
+        ],
+        "year": 1642
+    },
+    "A29880.headed.txt": {
+        "name": "1682-Browne",
+        "bignames_cluster": [],
+        "superscience_cluster": [
+            "cube138_cluster0"
+        ],
+        "bignames_connectivity": [],
+        "super_connectivity": [
+            4
+        ],
+        "year": 1682
+    },
+    "A30107.headed.txt": {
+        "name": "1649-J. B. (John Bulwer)",
+        "bignames_cluster": [
+            "cube69_cluster0"
+        ],
+        "superscience_cluster": [
+            "cube95_cluster0",
+            "cube108_cluster0"
+        ],
+        "bignames_connectivity": [
+            1
+        ],
+        "super_connectivity": [
+            7,
+            5
+        ],
+        "year": 1649
+    },
+    "A30108.headed.txt": {
+        "name": "1648-J. B. (John Bulwer)",
+        "bignames_cluster": [],
+        "superscience_cluster": [
+            "cube123_cluster0"
+        ],
+        "bignames_connectivity": [],
+        "super_connectivity": [
+            4
+        ],
+        "year": 1648
+    },
+    "A30109.headed.txt": {
+        "name": "1654-J. B. (John Bulwer)",
+        "bignames_cluster": [
+            "cube71_cluster0"
+        ],
+        "superscience_cluster": [
+            "cube97_cluster0"
+        ],
+        "bignames_connectivity": [
+            4
+        ],
+        "super_connectivity": [
+            7
+        ],
+        "year": 1654
+    },
+    "A30481.headed.txt": {
+        "name": "1690-Burnet",
+        "bignames_cluster": [
+            "cube87_cluster0"
+        ],
+        "superscience_cluster": [
+            "cube135_cluster0"
+        ],
+        "bignames_connectivity": [
+            1
+        ],
+        "super_connectivity": [
+            2
+        ],
+        "year": 1690
+    },
+    "K084724.000.txt": {
+        "name": "1724-Whiston",
+        "bignames_cluster": [
+            "cube11_cluster0"
+        ],
+        "superscience_cluster": [],
+        "bignames_connectivity": [
+            2
+        ],
+        "super_connectivity": [],
+        "year": 1724
+    },
+    "A30484.headed.txt": {
+        "name": "1690-Burnet",
+        "bignames_cluster": [],
+        "superscience_cluster": [
+            "cube120_cluster0"
+        ],
+        "bignames_connectivity": [],
+        "super_connectivity": [
+            1
+        ],
+        "year": 1690
+    },
+    "A30485.headed.txt": {
+        "name": "1697-Burnet",
+        "bignames_cluster": [],
+        "superscience_cluster": [],
+        "bignames_connectivity": [],
+        "super_connectivity": [],
+        "year": 1697
+    },
+    "A30490.headed.txt": {
+        "name": "1697-Burnet",
+        "bignames_cluster": [
+            "cube87_cluster0"
+        ],
+        "superscience_cluster": [
+            "cube121_cluster0",
+            "cube122_cluster0"
+        ],
+        "bignames_connectivity": [
+            1
+        ],
+        "super_connectivity": [
+            3,
+            4
+        ],
+        "year": 1697
+    },
+    "A30491.headed.txt": {
+        "name": "1699-Burnet",
+        "bignames_cluster": [],
+        "superscience_cluster": [],
+        "bignames_connectivity": [],
+        "super_connectivity": [],
+        "year": 1699
+    },
+    "A32698.headed.txt": {
+        "name": "1680-Charleton",
+        "bignames_cluster": [
+            "cube69_cluster0"
+        ],
+        "superscience_cluster": [
+            "cube95_cluster0",
+            "cube108_cluster0"
+        ],
+        "bignames_connectivity": [
+            1
+        ],
+        "super_connectivity": [
+            7,
+            5
+        ],
+        "year": 1680
+    },
+    "A32704.headed.txt": {
+        "name": "1659-Charleton",
+        "bignames_cluster": [
+            "cube47_cluster0"
+        ],
+        "superscience_cluster": [
+            "cube81_cluster0"
+        ],
+        "bignames_connectivity": [
+            3
+        ],
+        "super_connectivity": [
+            4
+        ],
+        "year": 1659
+    },
+    "A32712.headed.txt": {
+        "name": "1654-Charleton",
+        "bignames_cluster": [],
+        "superscience_cluster": [
+            "cube93_cluster0"
+        ],
+        "bignames_connectivity": [],
+        "super_connectivity": [
+            3
+        ],
+        "year": 1654
+    },
+    "A32714.headed.txt": {
+        "name": "1683-Charleton",
+        "bignames_cluster": [
+            "cube57_cluster0"
+        ],
+        "superscience_cluster": [
+            "cube81_cluster0",
+            "cube94_cluster0"
+        ],
+        "bignames_connectivity": [
+            1
+        ],
+        "super_connectivity": [
+            4,
+            4
+        ],
+        "year": 1683
+    },
+    "A33998.headed.txt": {
+        "name": "1685-Collins",
+        "bignames_cluster": [],
+        "superscience_cluster": [],
+        "bignames_connectivity": [],
+        "super_connectivity": [],
+        "year": 1685
+    },
+    "A33999.headed.txt": {
+        "name": "1659-Collins",
+        "bignames_cluster": [
+            "cube11_cluster0"
+        ],
+        "superscience_cluster": [
+            "cube42_cluster0"
+        ],
+        "bignames_connectivity": [
+            2
+        ],
+        "super_connectivity": [
+            6
+        ],
+        "year": 1659
+    },
+    "A34005.headed.txt": {
+        "name": "1659-Collins",
+        "bignames_cluster": [
+            "cube5_cluster0"
+        ],
+        "superscience_cluster": [
+            "cube27_cluster0"
+        ],
+        "bignames_connectivity": [
+            1
+        ],
+        "super_connectivity": [
+            5
+        ],
+        "year": 1659
+    },
+    "A34110.headed.txt": {
+        "name": "1651-Comenius",
+        "bignames_cluster": [
+            "cube58_cluster0"
+        ],
+        "superscience_cluster": [
+            "cube94_cluster0",
+            "cube95_cluster0"
+        ],
+        "bignames_connectivity": [
+            4
+        ],
+        "super_connectivity": [
+            4,
+            7
+        ],
+        "year": 1651
+    },
+    "A35365.headed.txt": {
+        "name": "1652-Culpeper",
+        "bignames_cluster": [],
+        "superscience_cluster": [
+            "cube62_cluster0"
+        ],
+        "bignames_connectivity": [],
+        "super_connectivity": [
+            5
+        ],
+        "year": 1652
+    },
+    "A35394.headed.txt": {
+        "name": "1659-Culpeper",
+        "bignames_cluster": [],
+        "superscience_cluster": [
+            "cube86_cluster0"
+        ],
+        "bignames_connectivity": [],
+        "super_connectivity": [
+            5
+        ],
+        "year": 1659
+    },
+    "A35396.headed.txt": {
+        "name": "1651-Culpeper",
+        "bignames_cluster": [],
+        "superscience_cluster": [
+            "cube97_cluster0"
+        ],
+        "bignames_connectivity": [],
+        "super_connectivity": [
+            7
+        ],
+        "year": 1651
+    },
+    "A35559.headed.txt": {
+        "name": "1669-Casaubon",
+        "bignames_cluster": [],
+        "superscience_cluster": [
+            "cube163_cluster0"
+        ],
+        "bignames_connectivity": [],
+        "super_connectivity": [
+            1
+        ],
+        "year": 1669
+    },
+    "A35745.headed.txt": {
+        "name": "1649-Descartes",
+        "bignames_cluster": [],
+        "superscience_cluster": [],
+        "bignames_connectivity": [],
+        "super_connectivity": [],
+        "year": 1649
+    },
+    "A35748.headed.txt": {
+        "name": "1653-Descartes",
+        "bignames_cluster": [],
+        "superscience_cluster": [],
+        "bignames_connectivity": [],
+        "super_connectivity": [],
+        "year": 1653
+    },
+    "A35750.headed.txt": {
+        "name": "1680-Descartes",
+        "bignames_cluster": [],
+        "superscience_cluster": [],
+        "bignames_connectivity": [],
+        "super_connectivity": [],
+        "year": 1680
+    },
+    "A35751.headed.txt": {
+        "name": "1697-Descartes",
+        "bignames_cluster": [],
+        "superscience_cluster": [],
+        "bignames_connectivity": [],
+        "super_connectivity": [],
+        "year": 1697
+    },
+    "A35965.headed.txt": {
+        "name": "1683-Digby",
+        "bignames_cluster": [],
+        "superscience_cluster": [
+            "cube48_cluster1"
+        ],
+        "bignames_connectivity": [],
+        "super_connectivity": [
+            0
+        ],
+        "year": 1683
+    },
+    "A35967.headed.txt": {
+        "name": "1675-Digby",
+        "bignames_cluster": [],
+        "superscience_cluster": [
+            "cube35_cluster0"
+        ],
+        "bignames_connectivity": [],
+        "super_connectivity": [
+            3
+        ],
+        "year": 1675
+    },
+    "A35968.headed.txt": {
+        "name": "1682-Digby",
+        "bignames_cluster": [],
+        "superscience_cluster": [
+            "cube48_cluster1"
+        ],
+        "bignames_connectivity": [],
+        "super_connectivity": [
+            0
+        ],
+        "year": 1682
+    },
+    "A35975.headed.txt": {
+        "name": "1661-Digby",
+        "bignames_cluster": [
+            "cube58_cluster0"
+        ],
+        "superscience_cluster": [
+            "cube96_cluster0"
+        ],
+        "bignames_connectivity": [
+            4
+        ],
+        "super_connectivity": [
+            7
+        ],
+        "year": 1661
+    },
+    "A35976.headed.txt": {
+        "name": "1658-Digby",
+        "bignames_cluster": [
+            "cube80_cluster0"
+        ],
+        "superscience_cluster": [
+            "cube109_cluster0"
+        ],
+        "bignames_connectivity": [
+            2
+        ],
+        "super_connectivity": [
+            6
+        ],
+        "year": 1658
+    },
+    "A35985.headed.txt": {
+        "name": "1669-Digby",
+        "bignames_cluster": [
+            "cube78_cluster0"
+        ],
+        "superscience_cluster": [
+            "cube106_cluster0",
+            "cube121_cluster0"
+        ],
+        "bignames_connectivity": [
+            2
+        ],
+        "super_connectivity": [
+            3,
+            3
+        ],
+        "year": 1669
+    },
+    "A35986.headed.txt": {
+        "name": "1669-Digby",
+        "bignames_cluster": [
+            "cube80_cluster0"
+        ],
+        "superscience_cluster": [
+            "cube109_cluster0"
+        ],
+        "bignames_connectivity": [
+            2
+        ],
+        "super_connectivity": [
+            6
+        ],
+        "year": 1669
+    },
+    "A35987.headed.txt": {
+        "name": "1644-Digby",
+        "bignames_cluster": [
+            "cube78_cluster0"
+        ],
+        "superscience_cluster": [
+            "cube106_cluster0"
+        ],
+        "bignames_connectivity": [
+            2
+        ],
+        "super_connectivity": [
+            3
+        ],
+        "year": 1644
+    },
+    "A37148.headed.txt": {
+        "name": "1651-Dymock",
+        "bignames_cluster": [],
+        "superscience_cluster": [
+            "cube109_cluster0"
+        ],
+        "bignames_connectivity": [],
+        "super_connectivity": [
+            6
+        ],
+        "year": 1651
+    },
+    "A40029.headed.txt": {
+        "name": "1659-Foster",
+        "bignames_cluster": [],
+        "superscience_cluster": [
+            "cube29_cluster0"
+        ],
+        "bignames_connectivity": [],
+        "super_connectivity": [
+            1
+        ],
+        "year": 1659
+    },
+    "A40030.headed.txt": {
+        "name": "1685-Foster",
+        "bignames_cluster": [],
+        "superscience_cluster": [
+            "cube4_cluster0",
+            "cube5_cluster0"
+        ],
+        "bignames_connectivity": [],
+        "super_connectivity": [
+            1,
+            1
+        ],
+        "year": 1685
+    },
+    "K088587.000.txt": {
+        "name": "1715-Whiston",
+        "bignames_cluster": [],
+        "superscience_cluster": [],
+        "bignames_connectivity": [],
+        "super_connectivity": [],
+        "year": 1715
+    },
+    "A40031.headed.txt": {
+        "name": "1654-Foster",
+        "bignames_cluster": [],
+        "superscience_cluster": [
+            "cube54_cluster0"
+        ],
+        "bignames_connectivity": [],
+        "super_connectivity": [
+            3
+        ],
+        "year": 1654
+    },
+    "A40032.headed.txt": {
+        "name": "1659-Foster",
+        "bignames_cluster": [],
+        "superscience_cluster": [],
+        "bignames_connectivity": [],
+        "super_connectivity": [],
+        "year": 1659
+    },
+    "A40034.headed.txt": {
+        "name": "1654-Foster",
+        "bignames_cluster": [],
+        "superscience_cluster": [
+            "cube41_cluster0"
+        ],
+        "bignames_connectivity": [],
+        "super_connectivity": [
+            4
+        ],
+        "year": 1654
+    },
+    "A41365.headed.txt": {
+        "name": "1682-Goedaert",
+        "bignames_cluster": [],
+        "superscience_cluster": [
+            "cube72_cluster0"
+        ],
+        "bignames_connectivity": [],
+        "super_connectivity": [
+            7
+        ],
+        "year": 1682
+    },
+    "A42100.headed.txt": {
+        "name": "1682-Grew",
+        "bignames_cluster": [
+            "cube37_cluster0"
+        ],
+        "superscience_cluster": [
+            "cube68_cluster0"
+        ],
+        "bignames_connectivity": [
+            0
+        ],
+        "super_connectivity": [
+            2
+        ],
+        "year": 1682
+    },
+    "A42101.headed.txt": {
+        "name": "1675-Grew",
+        "bignames_cluster": [
+            "cube37_cluster0"
+        ],
+        "superscience_cluster": [
+            "cube68_cluster0"
+        ],
+        "bignames_connectivity": [
+            0
+        ],
+        "super_connectivity": [
+            2
+        ],
+        "year": 1675
+    },
+    "A42105.headed.txt": {
+        "name": "1678-Grew",
+        "bignames_cluster": [
+            "cube66_cluster0"
+        ],
+        "superscience_cluster": [
+            "cube93_cluster0"
+        ],
+        "bignames_connectivity": [
+            0
+        ],
+        "super_connectivity": [
+            3
+        ],
+        "year": 1678
+    },
+    "A42106.headed.txt": {
+        "name": "1673-Grew",
+        "bignames_cluster": [],
+        "superscience_cluster": [
+            "cube80_cluster0"
+        ],
+        "bignames_connectivity": [],
+        "super_connectivity": [
+            3
+        ],
+        "year": 1673
+    },
+    "A42108.headed.txt": {
+        "name": "1685-Grew",
+        "bignames_cluster": [],
+        "superscience_cluster": [
+            "cube57_cluster0"
+        ],
+        "bignames_connectivity": [],
+        "super_connectivity": [
+            2
+        ],
+        "year": 1685
+    },
+    "A42110.headed.txt": {
+        "name": "1683-Grew",
+        "bignames_cluster": [],
+        "superscience_cluster": [],
+        "bignames_connectivity": [],
+        "super_connectivity": [],
+        "year": 1683
+    },
+    "A42444.headed.txt": {
+        "name": "1659-Gassendi",
+        "bignames_cluster": [
+            "cube89_cluster0"
+        ],
+        "superscience_cluster": [
+            "cube123_cluster0"
+        ],
+        "bignames_connectivity": [
+            1
+        ],
+        "super_connectivity": [
+            4
+        ],
+        "year": 1659
+    },
+    "A42815.headed.txt": {
+        "name": "1671-Glanvill",
+        "bignames_cluster": [],
+        "superscience_cluster": [],
+        "bignames_connectivity": [],
+        "super_connectivity": [],
+        "year": 1671
+    },
+    "A42819.headed.txt": {
+        "name": "1671-Glanvill",
+        "bignames_cluster": [],
+        "superscience_cluster": [
+            "cube150_cluster0"
+        ],
+        "bignames_connectivity": [],
+        "super_connectivity": [
+            3
+        ],
+        "year": 1671
+    },
+    "A42822.headed.txt": {
+        "name": "1668-Glanvill",
+        "bignames_cluster": [
+            "cube108_cluster0"
+        ],
+        "superscience_cluster": [
+            "cube136_cluster0",
+            "cube137_cluster0"
+        ],
+        "bignames_connectivity": [
+            0
+        ],
+        "super_connectivity": [
+            3,
+            4
+        ],
+        "year": 1668
+    },
+    "A42823.headed.txt": {
+        "name": "1671-Glanvill",
+        "bignames_cluster": [],
+        "superscience_cluster": [],
+        "bignames_connectivity": [],
+        "super_connectivity": [],
+        "year": 1671
+    },
+    "A43008.headed.txt": {
+        "name": "1663-Harvey",
+        "bignames_cluster": [
+            "cube57_cluster0",
+            "cube68_cluster0"
+        ],
+        "superscience_cluster": [
+            "cube93_cluster0"
+        ],
+        "bignames_connectivity": [
+            1,
+            2
+        ],
+        "super_connectivity": [
+            3
+        ],
+        "year": 1663
+    },
+    "A43010.headed.txt": {
+        "name": "1689-Harvey",
+        "bignames_cluster": [
+            "cube71_cluster0",
+            "cube72_cluster0",
+            "cube82_cluster0"
+        ],
+        "superscience_cluster": [
+            "cube98_cluster0"
+        ],
+        "bignames_connectivity": [
+            4,
+            3,
+            4
+        ],
+        "super_connectivity": [
+            7
+        ],
+        "year": 1689
+    },
+    "A43011.headed.txt": {
+        "name": "1678-Harvey",
+        "bignames_cluster": [],
+        "superscience_cluster": [
+            "cube97_cluster0"
+        ],
+        "bignames_connectivity": [],
+        "super_connectivity": [
+            7
+        ],
+        "year": 1678
+    },
+    "A43015.headed.txt": {
+        "name": "1665-Harvey",
+        "bignames_cluster": [
+            "cube50_cluster0"
+        ],
+        "superscience_cluster": [
+            "cube73_cluster0"
+        ],
+        "bignames_connectivity": [
+            3
+        ],
+        "super_connectivity": [
+            6
+        ],
+        "year": 1665
+    },
+    "A43016.headed.txt": {
+        "name": "1675-Harvey",
+        "bignames_cluster": [
+            "cube47_cluster0",
+            "cube48_cluster0",
+            "cube58_cluster0",
+            "cube59_cluster0"
+        ],
+        "superscience_cluster": [
+            "cube82_cluster0"
+        ],
+        "bignames_connectivity": [
+            3,
+            3,
+            4,
+            4
+        ],
+        "super_connectivity": [
+            6
+        ],
+        "year": 1675
+    },
+    "A43019.headed.txt": {
+        "name": "1670-Harvey",
+        "bignames_cluster": [
+            "cube61_cluster0"
+        ],
+        "superscience_cluster": [
+            "cube85_cluster0"
+        ],
+        "bignames_connectivity": [
+            4
+        ],
+        "super_connectivity": [
+            7
+        ],
+        "year": 1670
+    },
+    "A43020.headed.txt": {
+        "name": "1666-Harvey",
+        "bignames_cluster": [
+            "cube61_cluster0",
+            "cube72_cluster0"
+        ],
+        "superscience_cluster": [
+            "cube84_cluster0",
+            "cube85_cluster0",
+            "cube97_cluster0",
+            "cube98_cluster0"
+        ],
+        "bignames_connectivity": [
+            4,
+            3
+        ],
+        "super_connectivity": [
+            7,
+            7,
+            7,
+            7
+        ],
+        "year": 1666
+    },
+    "A43024.headed.txt": {
+        "name": "1674-Harvey",
+        "bignames_cluster": [
+            "cube59_cluster0"
+        ],
+        "superscience_cluster": [
+            "cube96_cluster0"
+        ],
+        "bignames_connectivity": [
+            4
+        ],
+        "super_connectivity": [
+            7
+        ],
+        "year": 1674
+    },
+    "A43025.headed.txt": {
+        "name": "1696-Harvey",
+        "bignames_cluster": [
+            "cube70_cluster0"
+        ],
+        "superscience_cluster": [
+            "cube96_cluster0"
+        ],
+        "bignames_connectivity": [
+            4
+        ],
+        "super_connectivity": [
+            7
+        ],
+        "year": 1696
+    },
+    "A43026.headed.txt": {
+        "name": "1699-Harvey",
+        "bignames_cluster": [
+            "cube70_cluster0"
+        ],
+        "superscience_cluster": [
+            "cube96_cluster0"
+        ],
+        "bignames_connectivity": [
+            4
+        ],
+        "super_connectivity": [
+            7
+        ],
+        "year": 1699
+    },
+    "A43030.headed.txt": {
+        "name": "1653-Harvey",
+        "bignames_cluster": [
+            "cube58_cluster0",
+            "cube69_cluster0"
+        ],
+        "superscience_cluster": [
+            "cube94_cluster0"
+        ],
+        "bignames_connectivity": [
+            4,
+            1
+        ],
+        "super_connectivity": [
+            4
+        ],
+        "year": 1653
+    },
+    "A43280.headed.txt": {
+        "name": "1688-Helmont",
+        "bignames_cluster": [
+            "cube58_cluster0"
+        ],
+        "superscience_cluster": [
+            "cube82_cluster0"
+        ],
+        "bignames_connectivity": [
+            4
+        ],
+        "super_connectivity": [
+            6
+        ],
+        "year": 1688
+    },
+    "A43281.headed.txt": {
+        "name": "1685-Helmont",
+        "bignames_cluster": [],
+        "superscience_cluster": [
+            "cube108_cluster0"
+        ],
+        "bignames_connectivity": [],
+        "super_connectivity": [
+            5
+        ],
+        "year": 1685
+    },
+    "A43285.headed.txt": {
+        "name": "1664-Helmont",
+        "bignames_cluster": [
+            "cube81_cluster0",
+            "cube91_cluster0"
+        ],
+        "superscience_cluster": [
+            "cube109_cluster0",
+            "cube124_cluster0"
+        ],
+        "bignames_connectivity": [
+            5,
+            1
+        ],
+        "super_connectivity": [
+            6,
+            4
+        ],
+        "year": 1664
+    },
+    "A43286.headed.txt": {
+        "name": "1665-Helmont",
+        "bignames_cluster": [],
+        "superscience_cluster": [],
+        "bignames_connectivity": [],
+        "super_connectivity": [],
+        "year": 1665
+    },
+    "A43288.headed.txt": {
+        "name": "1683-Helmont",
+        "bignames_cluster": [],
+        "superscience_cluster": [],
+        "bignames_connectivity": [],
+        "super_connectivity": [],
+        "year": 1683
+    },
+    "A43289.headed.txt": {
+        "name": "1650-Helmont",
+        "bignames_cluster": [
+            "cube81_cluster0"
+        ],
+        "superscience_cluster": [
+            "cube109_cluster0"
+        ],
+        "bignames_connectivity": [
+            5
+        ],
+        "super_connectivity": [
+            6
+        ],
+        "year": 1650
+    },
+    "A43859.headed.txt": {
+        "name": "1655-Hippocrates.; Galen.; Heurne",
+        "bignames_cluster": [],
+        "superscience_cluster": [],
+        "bignames_connectivity": [],
+        "super_connectivity": [],
+        "year": 1655
+    },
+    "A43983.headed.txt": {
+        "name": "1678-Hobbes",
+        "bignames_cluster": [],
+        "superscience_cluster": [],
+        "bignames_connectivity": [],
+        "super_connectivity": [],
+        "year": 1678
+    },
+    "A43987.headed.txt": {
+        "name": "1656-Hobbes",
+        "bignames_cluster": [],
+        "superscience_cluster": [],
+        "bignames_connectivity": [],
+        "super_connectivity": [],
+        "year": 1656
+    },
+    "A43995.headed.txt": {
+        "name": "1684-Hobbes",
+        "bignames_cluster": [],
+        "superscience_cluster": [
+            "cube136_cluster0"
+        ],
+        "bignames_connectivity": [],
+        "super_connectivity": [
+            3
+        ],
+        "year": 1684
+    },
+    "A44011.headed.txt": {
+        "name": "1682-Hobbes",
+        "bignames_cluster": [],
+        "superscience_cluster": [
+            "cube93_cluster0"
+        ],
+        "bignames_connectivity": [],
+        "super_connectivity": [
+            3
+        ],
+        "year": 1682
+    },
+    "A44014.headed.txt": {
+        "name": "1656-Hobbes",
+        "bignames_cluster": [],
+        "superscience_cluster": [],
+        "bignames_connectivity": [],
+        "super_connectivity": [],
+        "year": 1656
+    },
+    "A44172.headed.txt": {
+        "name": "1673-Hale",
+        "bignames_cluster": [
+            "cube54_cluster0"
+        ],
+        "superscience_cluster": [
+            "cube91_cluster0"
+        ],
+        "bignames_connectivity": [
+            0
+        ],
+        "super_connectivity": [
+            1
+        ],
+        "year": 1673
+    },
+    "A44220.headed.txt": {
+        "name": "1695-Hale",
+        "bignames_cluster": [],
+        "superscience_cluster": [
+            "cube137_cluster0"
+        ],
+        "bignames_connectivity": [],
+        "super_connectivity": [
+            4
+        ],
+        "year": 1695
+    },
+    "A44236.headed.txt": {
+        "name": "1677-Hale",
+        "bignames_cluster": [
+            "cube54_cluster0"
+        ],
+        "superscience_cluster": [
+            "cube91_cluster0",
+            "cube92_cluster0"
+        ],
+        "bignames_connectivity": [
+            0
+        ],
+        "super_connectivity": [
+            1,
+            4
+        ],
+        "year": 1677
+    },
+    "A44313.headed.txt": {
+        "name": "1674-Hooke",
+        "bignames_cluster": [],
+        "superscience_cluster": [
+            "cube80_cluster0"
+        ],
+        "bignames_connectivity": [],
+        "super_connectivity": [
+            3
+        ],
+        "year": 1674
+    },
+    "A44314.headed.txt": {
+        "name": "1661-Hooke",
+        "bignames_cluster": [],
+        "superscience_cluster": [],
+        "bignames_connectivity": [],
+        "super_connectivity": [],
+        "year": 1661
+    },
+    "A44315.headed.txt": {
+        "name": "1674-Hooke",
+        "bignames_cluster": [],
+        "superscience_cluster": [],
+        "bignames_connectivity": [],
+        "super_connectivity": [],
+        "year": 1674
+    },
+    "A44317.headed.txt": {
+        "name": "1676-Hooke",
+        "bignames_cluster": [],
+        "superscience_cluster": [
+            "cube80_cluster0"
+        ],
+        "bignames_connectivity": [],
+        "super_connectivity": [
+            3
+        ],
+        "year": 1676
+    },
+    "A44319.headed.txt": {
+        "name": "1677-Hooke",
+        "bignames_cluster": [
+            "cube55_cluster0"
+        ],
+        "superscience_cluster": [
+            "cube92_cluster0"
+        ],
+        "bignames_connectivity": [
+            0
+        ],
+        "super_connectivity": [
+            4
+        ],
+        "year": 1677
+    },
+    "A44321.headed.txt": {
+        "name": "1678-Hooke",
+        "bignames_cluster": [
+            "cube55_cluster0"
+        ],
+        "superscience_cluster": [
+            "cube93_cluster0"
+        ],
+        "bignames_connectivity": [
+            0
+        ],
+        "super_connectivity": [
+            3
+        ],
+        "year": 1678
+    },
+    "A44322.headed.txt": {
+        "name": "1678-Hooke",
+        "bignames_cluster": [],
+        "superscience_cluster": [
+            "cube69_cluster0",
+            "cube81_cluster0"
+        ],
+        "bignames_connectivity": [],
+        "super_connectivity": [
+            3,
+            4
+        ],
+        "year": 1678
+    },
+    "A44323.headed.txt": {
+        "name": "1665-Hooke",
+        "bignames_cluster": [
+            "cube55_cluster0"
+        ],
+        "superscience_cluster": [
+            "cube93_cluster0"
+        ],
+        "bignames_connectivity": [
+            0
+        ],
+        "super_connectivity": [
+            3
+        ],
+        "year": 1665
+    },
+    "A45273.headed.txt": {
+        "name": "1698-Huygens",
+        "bignames_cluster": [],
+        "superscience_cluster": [
+            "cube122_cluster0",
+            "cube136_cluster0"
+        ],
+        "bignames_connectivity": [],
+        "super_connectivity": [
+            4,
+            3
+        ],
+        "year": 1698
+    },
+    "A45747.headed.txt": {
+        "name": "1655-Hartlib",
+        "bignames_cluster": [],
+        "superscience_cluster": [
+            "cube124_cluster0"
+        ],
+        "bignames_connectivity": [],
+        "super_connectivity": [
+            4
+        ],
+        "year": 1655
+    },
+    "A45759.headed.txt": {
+        "name": "1655-Hartlib",
+        "bignames_cluster": [],
+        "superscience_cluster": [
+            "cube109_cluster0",
+            "cube110_cluster0"
+        ],
+        "bignames_connectivity": [],
+        "super_connectivity": [
+            6,
+            6
+        ],
+        "year": 1655
+    },
+    "A48262.headed.txt": {
+        "name": "1653-Oughtred",
+        "bignames_cluster": [
+            "cube37_cluster0"
+        ],
+        "superscience_cluster": [
+            "cube68_cluster0"
+        ],
+        "bignames_connectivity": [
+            0
+        ],
+        "super_connectivity": [
+            2
+        ],
+        "year": 1653
+    },
+    "A48329.headed.txt": {
+        "name": "1667-Leybourn",
+        "bignames_cluster": [],
+        "superscience_cluster": [
+            "cube54_cluster0",
+            "cube55_cluster0"
+        ],
+        "bignames_connectivity": [],
+        "super_connectivity": [
+            3,
+            3
+        ],
+        "year": 1667
+    },
+    "A48339.headed.txt": {
+        "name": "1675-Leybourn",
+        "bignames_cluster": [
+            "cube5_cluster0"
+        ],
+        "superscience_cluster": [
+            "cube27_cluster0"
+        ],
+        "bignames_connectivity": [
+            1
+        ],
+        "super_connectivity": [
+            5
+        ],
+        "year": 1675
+    },
+    "A48340.headed.txt": {
+        "name": "1667-Leybourn",
+        "bignames_cluster": [],
+        "superscience_cluster": [],
+        "bignames_connectivity": [],
+        "super_connectivity": [],
+        "year": 1667
+    },
+    "A48344.headed.txt": {
+        "name": "1669-Leybourn",
+        "bignames_cluster": [
+            "cube5_cluster0"
+        ],
+        "superscience_cluster": [
+            "cube26_cluster0",
+            "cube27_cluster0"
+        ],
+        "bignames_connectivity": [
+            1
+        ],
+        "super_connectivity": [
+            2,
+            5
+        ],
+        "year": 1669
+    },
+    "A48494.headed.txt": {
+        "name": "1676-Lilly",
+        "bignames_cluster": [],
+        "superscience_cluster": [
+            "cube108_cluster0"
+        ],
+        "bignames_connectivity": [],
+        "super_connectivity": [
+            5
+        ],
+        "year": 1676
+    },
+    "A48704.headed.txt": {
+        "name": "1683-Lister",
+        "bignames_cluster": [
+            "cube67_cluster0"
+        ],
+        "superscience_cluster": [
+            "cube94_cluster0",
+            "cube95_cluster0"
+        ],
+        "bignames_connectivity": [
+            1
+        ],
+        "super_connectivity": [
+            4,
+            7
+        ],
+        "year": 1683
+    },
+    "A48874.headed.txt": {
+        "name": "1690-Locke",
+        "bignames_cluster": [],
+        "superscience_cluster": [
+            "cube133_cluster0",
+            "cube134_cluster0"
+        ],
+        "bignames_connectivity": [],
+        "super_connectivity": [
+            1,
+            2
+        ],
+        "year": 1690
+    },
+    "A49322.headed.txt": {
+        "name": "1700-Lower",
+        "bignames_cluster": [],
+        "superscience_cluster": [
+            "cube21_cluster0"
+        ],
+        "bignames_connectivity": [],
+        "super_connectivity": [
+            3
+        ],
+        "year": 1700
+    },
+    "A49437.headed.txt": {
+        "name": "1700-Lucretius Carus",
+        "bignames_cluster": [],
+        "superscience_cluster": [
+            "cube98_cluster0",
+            "cube111_cluster0"
+        ],
+        "bignames_connectivity": [],
+        "super_connectivity": [
+            7,
+            5
+        ],
+        "year": 1700
+    },
+    "A50694.headed.txt": {
+        "name": "1670-Merret",
+        "bignames_cluster": [],
+        "superscience_cluster": [
+            "cube126_cluster0"
+        ],
+        "bignames_connectivity": [],
+        "super_connectivity": [
+            5
+        ],
+        "year": 1670
+    },
+    "A50701.headed.txt": {
+        "name": "1670-Merret",
+        "bignames_cluster": [],
+        "superscience_cluster": [
+            "cube139_cluster0"
+        ],
+        "bignames_connectivity": [],
+        "super_connectivity": [
+            5
+        ],
+        "year": 1670
+    },
+    "A50778.headed.txt": {
+        "name": "1687-Midgley",
+        "bignames_cluster": [
+            "cube79_cluster0"
+        ],
+        "superscience_cluster": [
+            "cube106_cluster0"
+        ],
+        "bignames_connectivity": [
+            3
+        ],
+        "super_connectivity": [
+            3
+        ],
+        "year": 1687
+    },
+    "A51291.headed.txt": {
+        "name": "1646-More",
+        "bignames_cluster": [
+            "cube81_cluster0",
+            "cube91_cluster0"
+        ],
+        "superscience_cluster": [
+            "cube111_cluster0"
+        ],
+        "bignames_connectivity": [
+            5,
+            1
+        ],
+        "super_connectivity": [
+            5
+        ],
+        "year": 1646
+    },
+    "A51308.headed.txt": {
+        "name": "1650-More",
+        "bignames_cluster": [],
+        "superscience_cluster": [],
+        "bignames_connectivity": [],
+        "super_connectivity": [],
+        "year": 1650
+    },
+    "A51313.headed.txt": {
+        "name": "1676-More",
+        "bignames_cluster": [
+            "cube54_cluster0"
+        ],
+        "superscience_cluster": [
+            "cube92_cluster0"
+        ],
+        "bignames_connectivity": [
+            0
+        ],
+        "super_connectivity": [
+            4
+        ],
+        "year": 1676
+    },
+    "A51540.headed.txt": {
+        "name": "1692-Moxon",
+        "bignames_cluster": [],
+        "superscience_cluster": [],
+        "bignames_connectivity": [],
+        "super_connectivity": [],
+        "year": 1692
+    },
+    "A51541.headed.txt": {
+        "name": "1679-Moxon",
+        "bignames_cluster": [
+            "cube30_cluster0"
+        ],
+        "superscience_cluster": [
+            "cube56_cluster0"
+        ],
+        "bignames_connectivity": [
+            1
+        ],
+        "super_connectivity": [
+            1
+        ],
+        "year": 1679
+    },
+    "A51544.headed.txt": {
+        "name": "1668-Moxon",
+        "bignames_cluster": [
+            "cube5_cluster0",
+            "cube11_cluster0"
+        ],
+        "superscience_cluster": [
+            "cube27_cluster0"
+        ],
+        "bignames_connectivity": [
+            1,
+            2
+        ],
+        "super_connectivity": [
+            5
+        ],
+        "year": 1668
+    },
+    "A51548.headed.txt": {
+        "name": "1693-Moxon",
+        "bignames_cluster": [
+            "cube21_cluster0"
+        ],
+        "superscience_cluster": [
+            "cube44_cluster0",
+            "cube45_cluster0"
+        ],
+        "bignames_connectivity": [
+            1
+        ],
+        "super_connectivity": [
+            3,
+            3
+        ],
+        "year": 1693
+    },
+    "A51551.headed.txt": {
+        "name": "1670-Moxon",
+        "bignames_cluster": [
+            "cube11_cluster0"
+        ],
+        "superscience_cluster": [
+            "cube26_cluster0"
+        ],
+        "bignames_connectivity": [
+            2
+        ],
+        "super_connectivity": [
+            2
+        ],
+        "year": 1670
+    },
+    "A51553.headed.txt": {
+        "name": "1659-Moxon",
+        "bignames_cluster": [
+            "cube21_cluster0",
+            "cube30_cluster0"
+        ],
+        "superscience_cluster": [
+            "cube57_cluster0"
+        ],
+        "bignames_connectivity": [
+            1,
+            1
+        ],
+        "super_connectivity": [
+            2
+        ],
+        "year": 1659
+    },
+    "A51558.headed.txt": {
+        "name": "1692-Moxon",
+        "bignames_cluster": [],
+        "superscience_cluster": [
+            "cube84_cluster0",
+            "cube97_cluster0"
+        ],
+        "bignames_connectivity": [],
+        "super_connectivity": [
+            7,
+            7
+        ],
+        "year": 1692
+    },
+    "A51655.headed.txt": {
+        "name": "1694-Malebranche",
+        "bignames_cluster": [],
+        "superscience_cluster": [
+            "cube161_cluster0"
+        ],
+        "bignames_connectivity": [],
+        "super_connectivity": [
+            0
+        ],
+        "year": 1694
+    },
+    "A51689.headed.txt": {
+        "name": "1695-Malebranche",
+        "bignames_cluster": [],
+        "superscience_cluster": [],
+        "bignames_connectivity": [],
+        "super_connectivity": [],
+        "year": 1695
+    },
+    "A53045.headed.txt": {
+        "name": "1668-Newcastle",
+        "bignames_cluster": [],
+        "superscience_cluster": [],
+        "bignames_connectivity": [],
+        "super_connectivity": [],
+        "year": 1668
+    },
+    "A53048.headed.txt": {
+        "name": "1671-Newcastle",
+        "bignames_cluster": [],
+        "superscience_cluster": [],
+        "bignames_connectivity": [],
+        "super_connectivity": [],
+        "year": 1671
+    },
+    "A53049.headed.txt": {
+        "name": "1666-Newcastle",
+        "bignames_cluster": [
+            "cube98_cluster0"
+        ],
+        "superscience_cluster": [
+            "cube135_cluster0"
+        ],
+        "bignames_connectivity": [
+            0
+        ],
+        "super_connectivity": [
+            2
+        ],
+        "year": 1666
+    },
+    "A53055.headed.txt": {
+        "name": "1655-Newcastle",
+        "bignames_cluster": [
+            "cube69_cluster0"
+        ],
+        "superscience_cluster": [
+            "cube95_cluster0",
+            "cube108_cluster0"
+        ],
+        "bignames_connectivity": [
+            1
+        ],
+        "super_connectivity": [
+            7,
+            5
+        ],
+        "year": 1655
+    },
+    "A53057.headed.txt": {
+        "name": "1653-Newcastle",
+        "bignames_cluster": [],
+        "superscience_cluster": [
+            "cube109_cluster0"
+        ],
+        "bignames_connectivity": [],
+        "super_connectivity": [
+            6
+        ],
+        "year": 1653
+    },
+    "A53058.headed.txt": {
+        "name": "1664-Newcastle",
+        "bignames_cluster": [
+            "cube98_cluster0"
+        ],
+        "superscience_cluster": [
+            "cube136_cluster0"
+        ],
+        "bignames_connectivity": [
+            0
+        ],
+        "super_connectivity": [
+            3
+        ],
+        "year": 1664
+    },
+    "A53547.headed.txt": {
+        "name": "1652-Oughtred",
+        "bignames_cluster": [
+            "cube11_cluster0"
+        ],
+        "superscience_cluster": [
+            "cube42_cluster0"
+        ],
+        "bignames_connectivity": [
+            2
+        ],
+        "super_connectivity": [
+            6
+        ],
+        "year": 1652
+    },
+    "A54611.headed.txt": {
+        "name": "1674-Petty",
+        "bignames_cluster": [],
+        "superscience_cluster": [],
+        "bignames_connectivity": [],
+        "super_connectivity": [],
+        "year": 1674
+    },
+    "A55577.headed.txt": {
+        "name": "1681-Papin",
+        "bignames_cluster": [],
+        "superscience_cluster": [],
+        "bignames_connectivity": [],
+        "super_connectivity": [],
+        "year": 1681
+    },
+    "A55584.headed.txt": {
+        "name": "1664-Power",
+        "bignames_cluster": [
+            "cube57_cluster0"
+        ],
+        "superscience_cluster": [
+            "cube81_cluster0"
+        ],
+        "bignames_connectivity": [
+            1
+        ],
+        "super_connectivity": [
+            4
+        ],
+        "year": 1664
+    },
+    "A55895.headed.txt": {
+        "name": "1665-Par\u00c3\u00a9",
+        "bignames_cluster": [
+            "cube49_cluster0"
+        ],
+        "superscience_cluster": [
+            "cube84_cluster0"
+        ],
+        "bignames_connectivity": [
+            3
+        ],
+        "super_connectivity": [
+            7
+        ],
+        "year": 1665
+    },
+    "A56368.headed.txt": {
+        "name": "1684-Napier",
+        "bignames_cluster": [],
+        "superscience_cluster": [
+            "cube42_cluster0"
+        ],
+        "bignames_connectivity": [],
+        "super_connectivity": [
+            6
+        ],
+        "year": 1684
+    },
+    "A56539.headed.txt": {
+        "name": "1688-Pascal",
+        "bignames_cluster": [],
+        "superscience_cluster": [
+            "cube165_cluster0"
+        ],
+        "bignames_connectivity": [],
+        "super_connectivity": [
+            0
+        ],
+        "year": 1688
+    },
+    "A56877.headed.txt": {
+        "name": "1660-White",
+        "bignames_cluster": [],
+        "superscience_cluster": [],
+        "bignames_connectivity": [],
+        "super_connectivity": [],
+        "year": 1660
+    },
+    "A57647.headed.txt": {
+        "name": "1652-Ross",
+        "bignames_cluster": [
+            "cube70_cluster0",
+            "cube81_cluster0"
+        ],
+        "superscience_cluster": [
+            "cube108_cluster0"
+        ],
+        "bignames_connectivity": [
+            4,
+            5
+        ],
+        "super_connectivity": [
+            5
+        ],
+        "year": 1652
+    },
+    "A57655.headed.txt": {
+        "name": "1653-Ross",
+        "bignames_cluster": [],
+        "superscience_cluster": [
+            "cube138_cluster0",
+            "cube139_cluster0"
+        ],
+        "bignames_connectivity": [],
+        "super_connectivity": [
+            4,
+            5
+        ],
+        "year": 1653
+    },
+    "A57666.headed.txt": {
+        "name": "1646-Ross",
+        "bignames_cluster": [],
+        "superscience_cluster": [
+            "cube122_cluster0"
+        ],
+        "bignames_connectivity": [],
+        "super_connectivity": [
+            4
+        ],
+        "year": 1646
+    },
+    "A57675.headed.txt": {
+        "name": "1645-Ross",
+        "bignames_cluster": [],
+        "superscience_cluster": [
+            "cube122_cluster0"
+        ],
+        "bignames_connectivity": [],
+        "super_connectivity": [
+            4
+        ],
+        "year": 1645
+    },
+    "A58173.headed.txt": {
+        "name": "1692-Ray",
+        "bignames_cluster": [
+            "cube80_cluster0"
+        ],
+        "superscience_cluster": [
+            "cube108_cluster0"
+        ],
+        "bignames_connectivity": [
+            2
+        ],
+        "super_connectivity": [
+            5
+        ],
+        "year": 1692
+    },
+    "A58175.headed.txt": {
+        "name": "1673-Ray",
+        "bignames_cluster": [],
+        "superscience_cluster": [
+            "cube58_cluster0",
+            "cube59_cluster0"
+        ],
+        "bignames_connectivity": [],
+        "super_connectivity": [
+            3,
+            5
+        ],
+        "year": 1673
+    },
+    "A58184.headed.txt": {
+        "name": "1693-Ray",
+        "bignames_cluster": [
+            "cube79_cluster0",
+            "cube80_cluster0"
+        ],
+        "superscience_cluster": [
+            "cube108_cluster0"
+        ],
+        "bignames_connectivity": [
+            3,
+            2
+        ],
+        "super_connectivity": [
+            5
+        ],
+        "year": 1693
+    },
+    "A58185.headed.txt": {
+        "name": "1691-Ray",
+        "bignames_cluster": [
+            "cube79_cluster0",
+            "cube89_cluster0"
+        ],
+        "superscience_cluster": [
+            "cube108_cluster0",
+            "cube123_cluster0"
+        ],
+        "bignames_connectivity": [
+            3,
+            1
+        ],
+        "super_connectivity": [
+            5,
+            4
+        ],
+        "year": 1691
+    },
+    "A58319.headed.txt": {
+        "name": "1651-Record",
+        "bignames_cluster": [
+            "cube69_cluster0"
+        ],
+        "superscience_cluster": [
+            "cube95_cluster0",
+            "cube96_cluster0"
+        ],
+        "bignames_connectivity": [
+            1
+        ],
+        "super_connectivity": [
+            7,
+            7
+        ],
+        "year": 1651
+    },
+    "A59161.headed.txt": {
+        "name": "1674-Charleton",
+        "bignames_cluster": [],
+        "superscience_cluster": [
+            "cube139_cluster0"
+        ],
+        "bignames_connectivity": [],
+        "super_connectivity": [
+            5
+        ],
+        "year": 1674
+    },
+    "A59191.headed.txt": {
+        "name": "1663-Sennert",
+        "bignames_cluster": [
+            "cube59_cluster0",
+            "cube70_cluster0"
+        ],
+        "superscience_cluster": [
+            "cube95_cluster0",
+            "cube96_cluster0"
+        ],
+        "bignames_connectivity": [
+            4,
+            4
+        ],
+        "super_connectivity": [
+            7,
+            7
+        ],
+        "year": 1663
+    },
+    "A59195.headed.txt": {
+        "name": "1658-Sennert",
+        "bignames_cluster": [
+            "cube60_cluster0"
+        ],
+        "superscience_cluster": [
+            "cube83_cluster0"
+        ],
+        "bignames_connectivity": [
+            3
+        ],
+        "super_connectivity": [
+            6
+        ],
+        "year": 1658
+    },
+    "A59200.headed.txt": {
+        "name": "1662-Sennert",
+        "bignames_cluster": [],
+        "superscience_cluster": [
+            "cube85_cluster0"
+        ],
+        "bignames_connectivity": [],
+        "super_connectivity": [
+            7
+        ],
+        "year": 1662
+    },
+    "A59203.headed.txt": {
+        "name": "1660-Sennert",
+        "bignames_cluster": [
+            "cube68_cluster0",
+            "cube79_cluster0"
+        ],
+        "superscience_cluster": [
+            "cube106_cluster0"
+        ],
+        "bignames_connectivity": [
+            2,
+            3
+        ],
+        "super_connectivity": [
+            3
+        ],
+        "year": 1660
+    },
+    "A59205.headed.txt": {
+        "name": "1660-Sennert",
+        "bignames_cluster": [
+            "cube70_cluster0",
+            "cube71_cluster0",
+            "cube81_cluster0",
+            "cube82_cluster0"
+        ],
+        "superscience_cluster": [
+            "cube109_cluster0"
+        ],
+        "bignames_connectivity": [
+            4,
+            4,
+            5,
+            4
+        ],
+        "super_connectivity": [
+            6
+        ],
+        "year": 1660
+    },
+    "A60281.headed.txt": {
+        "name": "1672-Sinclair",
+        "bignames_cluster": [],
+        "superscience_cluster": [
+            "cube79_cluster0"
+        ],
+        "bignames_connectivity": [],
+        "super_connectivity": [
+            4
+        ],
+        "year": 1672
+    },
+    "A60282.headed.txt": {
+        "name": "1683-Sinclair",
+        "bignames_cluster": [],
+        "superscience_cluster": [
+            "cube79_cluster0"
+        ],
+        "bignames_connectivity": [],
+        "super_connectivity": [
+            4
+        ],
+        "year": 1683
+    },
+    "A60283.headed.txt": {
+        "name": "1688-Sinclair",
+        "bignames_cluster": [
+            "cube30_cluster0"
+        ],
+        "superscience_cluster": [
+            "cube68_cluster0"
+        ],
+        "bignames_connectivity": [
+            1
+        ],
+        "super_connectivity": [
+            2
+        ],
+        "year": 1688
+    },
+    "A61158.headed.txt": {
+        "name": "1667-Sprat",
+        "bignames_cluster": [
+            "cube89_cluster0"
+        ],
+        "superscience_cluster": [
+            "cube123_cluster0"
+        ],
+        "bignames_connectivity": [
+            1
+        ],
+        "super_connectivity": [
+            4
+        ],
+        "year": 1667
+    },
+    "A64061.headed.txt": {
+        "name": "1685-Twysden",
+        "bignames_cluster": [],
+        "superscience_cluster": [
+            "cube29_cluster0"
+        ],
+        "bignames_connectivity": [],
+        "super_connectivity": [
+            1
+        ],
+        "year": 1685
+    },
+    "A64761.headed.txt": {
+        "name": "1650-Vaughan",
+        "bignames_cluster": [
+            "cube79_cluster0",
+            "cube80_cluster0"
+        ],
+        "superscience_cluster": [
+            "cube108_cluster0",
+            "cube109_cluster0"
+        ],
+        "bignames_connectivity": [
+            3,
+            2
+        ],
+        "super_connectivity": [
+            5,
+            6
+        ],
+        "year": 1650
+    },
+    "A64764.headed.txt": {
+        "name": "1669-Vaughan",
+        "bignames_cluster": [
+            "cube80_cluster0"
+        ],
+        "superscience_cluster": [
+            "cube108_cluster0",
+            "cube109_cluster0"
+        ],
+        "bignames_connectivity": [
+            2
+        ],
+        "super_connectivity": [
+            5,
+            6
+        ],
+        "year": 1669
+    },
+    "A64770.headed.txt": {
+        "name": "1650-Vaughan",
+        "bignames_cluster": [],
+        "superscience_cluster": [
+            "cube138_cluster0"
+        ],
+        "bignames_connectivity": [],
+        "super_connectivity": [
+            4
+        ],
+        "year": 1650
+    },
+    "A65356.headed.txt": {
+        "name": "1654-Webster",
+        "bignames_cluster": [
+            "cube98_cluster0"
+        ],
+        "superscience_cluster": [
+            "cube135_cluster0"
+        ],
+        "bignames_connectivity": [
+            0
+        ],
+        "super_connectivity": [
+            2
+        ],
+        "year": 1654
+    },
+    "A65370.headed.txt": {
+        "name": "1671-Webster",
+        "bignames_cluster": [],
+        "superscience_cluster": [
+            "cube93_cluster0"
+        ],
+        "bignames_connectivity": [],
+        "super_connectivity": [
+            3
+        ],
+        "year": 1671
+    },
+    "A65672.headed.txt": {
+        "name": "1696-Whiston",
+        "bignames_cluster": [],
+        "superscience_cluster": [
+            "cube106_cluster0"
+        ],
+        "bignames_connectivity": [],
+        "super_connectivity": [
+            3
+        ],
+        "year": 1696
+    },
+    "A65674.headed.txt": {
+        "name": "1698-Whiston",
+        "bignames_cluster": [],
+        "superscience_cluster": [],
+        "bignames_connectivity": [],
+        "super_connectivity": [],
+        "year": 1698
+    },
+    "A65776.headed.txt": {
+        "name": "1660-White",
+        "bignames_cluster": [],
+        "superscience_cluster": [],
+        "bignames_connectivity": [],
+        "super_connectivity": [],
+        "year": 1660
+    },
+    "A65786.headed.txt": {
+        "name": "1665-White",
+        "bignames_cluster": [
+            "cube97_cluster0"
+        ],
+        "superscience_cluster": [],
+        "bignames_connectivity": [
+            1
+        ],
+        "super_connectivity": [],
+        "year": 1665
+    },
+    "A66025.headed.txt": {
+        "name": "1649-Wilkins",
+        "bignames_cluster": [],
+        "superscience_cluster": [
+            "cube151_cluster0"
+        ],
+        "bignames_connectivity": [],
+        "super_connectivity": [
+            2
+        ],
+        "year": 1649
+    },
+    "A66047.headed.txt": {
+        "name": "1648-Wilkins",
+        "bignames_cluster": [
+            "cube66_cluster0"
+        ],
+        "superscience_cluster": [
+            "cube92_cluster0"
+        ],
+        "bignames_connectivity": [
+            0
+        ],
+        "super_connectivity": [
+            4
+        ],
+        "year": 1648
+    },
+    "A66053.headed.txt": {
+        "name": "1675-Wilkins",
+        "bignames_cluster": [],
+        "superscience_cluster": [
+            "cube150_cluster0",
+            "cube151_cluster0"
+        ],
+        "bignames_connectivity": [],
+        "super_connectivity": [
+            3,
+            2
+        ],
+        "year": 1675
+    },
+    "A66496.headed.txt": {
+        "name": "1681-Willis",
+        "bignames_cluster": [
+            "cube72_cluster0"
+        ],
+        "superscience_cluster": [
+            "cube98_cluster0"
+        ],
+        "bignames_connectivity": [
+            3
+        ],
+        "super_connectivity": [
+            7
+        ],
+        "year": 1681
+    },
+    "A66497.headed.txt": {
+        "name": "1681-Willis",
+        "bignames_cluster": [
+            "cube48_cluster0"
+        ],
+        "superscience_cluster": [
+            "cube82_cluster0"
+        ],
+        "bignames_connectivity": [
+            3
+        ],
+        "super_connectivity": [
+            6
+        ],
+        "year": 1681
+    },
+    "A66498.headed.txt": {
+        "name": "1685-Willis",
+        "bignames_cluster": [
+            "cube50_cluster0"
+        ],
+        "superscience_cluster": [
+            "cube85_cluster0"
+        ],
+        "bignames_connectivity": [
+            3
+        ],
+        "super_connectivity": [
+            7
+        ],
+        "year": 1685
+    },
+    "A66503.headed.txt": {
+        "name": "1681-Willis",
+        "bignames_cluster": [
+            "cube71_cluster0",
+            "cube72_cluster0"
+        ],
+        "superscience_cluster": [
+            "cube97_cluster0"
+        ],
+        "bignames_connectivity": [
+            4,
+            3
+        ],
+        "super_connectivity": [
+            7
+        ],
+        "year": 1681
+    },
+    "A66509.headed.txt": {
+        "name": "1679-Willis",
+        "bignames_cluster": [
+            "cube49_cluster0",
+            "cube50_cluster0",
+            "cube60_cluster0",
+            "cube61_cluster0"
+        ],
+        "superscience_cluster": [
+            "cube84_cluster0"
+        ],
+        "bignames_connectivity": [
+            3,
+            3,
+            3,
+            4
+        ],
+        "super_connectivity": [
+            7
+        ],
+        "year": 1679
+    },
+    "A66514.headed.txt": {
+        "name": "1691-Willis",
+        "bignames_cluster": [
+            "cube49_cluster0"
+        ],
+        "superscience_cluster": [
+            "cube73_cluster0"
+        ],
+        "bignames_connectivity": [
+            3
+        ],
+        "super_connectivity": [
+            6
+        ],
+        "year": 1691
+    },
+    "A66516.headed.txt": {
+        "name": "1684-Willis",
+        "bignames_cluster": [
+            "cube60_cluster0"
+        ],
+        "superscience_cluster": [
+            "cube83_cluster0",
+            "cube96_cluster0"
+        ],
+        "bignames_connectivity": [
+            3
+        ],
+        "super_connectivity": [
+            6,
+            7
+        ],
+        "year": 1684
+    },
+    "A66518.headed.txt": {
+        "name": "1683-Willis",
+        "bignames_cluster": [
+            "cube71_cluster0",
+            "cube72_cluster0"
+        ],
+        "superscience_cluster": [
+            "cube96_cluster0"
+        ],
+        "bignames_connectivity": [
+            4,
+            3
+        ],
+        "super_connectivity": [
+            7
+        ],
+        "year": 1683
+    },
+    "A66534.headed.txt": {
+        "name": "1678-Ray",
+        "bignames_cluster": [],
+        "superscience_cluster": [
+            "cube59_cluster0"
+        ],
+        "bignames_connectivity": [],
+        "super_connectivity": [
+            5
+        ],
+        "year": 1678
+    },
+    "A66808.headed.txt": {
+        "name": "1669-Wittie",
+        "bignames_cluster": [],
+        "superscience_cluster": [
+            "cube137_cluster0",
+            "cube138_cluster0"
+        ],
+        "bignames_connectivity": [],
+        "super_connectivity": [
+            4,
+            4
+        ],
+        "year": 1669
+    },
+    "A66810.headed.txt": {
+        "name": "1685-Wittie",
+        "bignames_cluster": [
+            "cube58_cluster0",
+            "cube69_cluster0"
+        ],
+        "superscience_cluster": [
+            "cube96_cluster0"
+        ],
+        "bignames_connectivity": [
+            4,
+            1
+        ],
+        "super_connectivity": [
+            7
+        ],
+        "year": 1685
+    },
+    "A67373.headed.txt": {
+        "name": "1697-Wallis",
+        "bignames_cluster": [],
+        "superscience_cluster": [],
+        "bignames_connectivity": [],
+        "super_connectivity": [],
+        "year": 1697
+    },
+    "A67375.headed.txt": {
+        "name": "1684-Wallis",
+        "bignames_cluster": [
+            "cube11_cluster0"
+        ],
+        "superscience_cluster": [
+            "cube27_cluster0"
+        ],
+        "bignames_connectivity": [
+            2
+        ],
+        "super_connectivity": [
+            5
+        ],
+        "year": 1684
+    },
+    "A67384.headed.txt": {
+        "name": "1675-Wallis",
+        "bignames_cluster": [],
+        "superscience_cluster": [],
+        "bignames_connectivity": [],
+        "super_connectivity": [],
+        "year": 1675
+    },
+    "A67575.headed.txt": {
+        "name": "1654-Ward",
+        "bignames_cluster": [],
+        "superscience_cluster": [
+            "cube150_cluster0"
+        ],
+        "bignames_connectivity": [],
+        "super_connectivity": [
+            3
+        ],
+        "year": 1654
+    },
+    "A68187.headed.txt": {
+        "name": "1571-Hill",
+        "bignames_cluster": [],
+        "superscience_cluster": [],
+        "bignames_connectivity": [],
+        "super_connectivity": [],
+        "year": 1571
+    },
+    "A68252.headed.txt": {
+        "name": "1633-James",
+        "bignames_cluster": [],
+        "superscience_cluster": [
+            "cube85_cluster0",
+            "cube86_cluster0"
+        ],
+        "bignames_connectivity": [],
+        "super_connectivity": [
+            7,
+            5
+        ],
+        "year": 1633
+    },
+    "A69046.headed.txt": {
+        "name": "1605-Digges",
+        "bignames_cluster": [],
+        "superscience_cluster": [
+            "cube45_cluster0",
+            "cube58_cluster0"
+        ],
+        "bignames_connectivity": [],
+        "super_connectivity": [
+            3,
+            3
+        ],
+        "year": 1605
+    },
+    "A69611.headed.txt": {
+        "name": "1675-Boyle",
+        "bignames_cluster": [
+            "cube77_cluster0"
+        ],
+        "superscience_cluster": [
+            "cube121_cluster0"
+        ],
+        "bignames_connectivity": [
+            1
+        ],
+        "super_connectivity": [
+            3
+        ],
+        "year": 1675
+    },
+    "A69661.headed.txt": {
+        "name": "1699-Burnet",
+        "bignames_cluster": [],
+        "superscience_cluster": [
+            "cube120_cluster0"
+        ],
+        "bignames_connectivity": [],
+        "super_connectivity": [
+            1
+        ],
+        "year": 1699
+    },
+    "A69832.headed.txt": {
+        "name": "1651-Culpeper",
+        "bignames_cluster": [],
+        "superscience_cluster": [
+            "cube48_cluster0",
+            "cube61_cluster0"
+        ],
+        "bignames_connectivity": [],
+        "super_connectivity": [
+            4,
+            5
+        ],
+        "year": 1651
+    },
+    "A69834.headed.txt": {
+        "name": "1652-Galen.; Culpeper",
+        "bignames_cluster": [],
+        "superscience_cluster": [],
+        "bignames_connectivity": [],
+        "super_connectivity": [],
+        "year": 1652
+    },
+    "A70185.headed.txt": {
+        "name": "1665-Glanvill",
+        "bignames_cluster": [],
+        "superscience_cluster": [
+            "cube148_cluster0"
+        ],
+        "bignames_connectivity": [],
+        "super_connectivity": [
+            0
+        ],
+        "year": 1665
+    },
+    "A70247.headed.txt": {
+        "name": "1674-Hale",
+        "bignames_cluster": [],
+        "superscience_cluster": [
+            "cube79_cluster0"
+        ],
+        "bignames_connectivity": [],
+        "super_connectivity": [
+            4
+        ],
+        "year": 1674
+    },
+    "A72146.headed.txt": {
+        "name": "1640-Bacon",
+        "bignames_cluster": [
+            "cube80_cluster0"
+        ],
+        "superscience_cluster": [
+            "cube108_cluster0"
+        ],
+        "bignames_connectivity": [
+            2
+        ],
+        "super_connectivity": [
+            5
+        ],
+        "year": 1640
+    },
+    "A76995.headed.txt": {
+        "name": "1656-Paracelsus",
+        "bignames_cluster": [
+            "cube59_cluster0"
+        ],
+        "superscience_cluster": [
+            "cube84_cluster0"
+        ],
+        "bignames_connectivity": [
+            4
+        ],
+        "super_connectivity": [
+            7
+        ],
+        "year": 1656
+    },
+    "A76996.headed.txt": {
+        "name": "1655-Paracelsus",
+        "bignames_cluster": [
+            "cube58_cluster0"
+        ],
+        "superscience_cluster": [
+            "cube83_cluster0"
+        ],
+        "bignames_connectivity": [
+            4
+        ],
+        "super_connectivity": [
+            6
+        ],
+        "year": 1655
+    },
+    "A76997.headed.txt": {
+        "name": "1655-Paracelsus",
+        "bignames_cluster": [
+            "cube81_cluster0",
+            "cube82_cluster0"
+        ],
+        "superscience_cluster": [
+            "cube110_cluster0"
+        ],
+        "bignames_connectivity": [
+            5,
+            4
+        ],
+        "super_connectivity": [
+            6
+        ],
+        "year": 1655
+    },
+    "A77179.headed.txt": {
+        "name": "1688-Boyle",
+        "bignames_cluster": [
+            "cube97_cluster0"
+        ],
+        "superscience_cluster": [
+            "cube136_cluster0"
+        ],
+        "bignames_connectivity": [
+            1
+        ],
+        "super_connectivity": [
+            3
+        ],
+        "year": 1688
+    },
+    "A80170.headed.txt": {
+        "name": "1659-Collins",
+        "bignames_cluster": [
+            "cube11_cluster0"
+        ],
+        "superscience_cluster": [
+            "cube26_cluster0",
+            "cube41_cluster0"
+        ],
+        "bignames_connectivity": [
+            2
+        ],
+        "super_connectivity": [
+            2,
+            4
+        ],
+        "year": 1659
+    },
+    "A80229.headed.txt": {
+        "name": "1651-Comenius",
+        "bignames_cluster": [],
+        "superscience_cluster": [
+            "cube136_cluster0"
+        ],
+        "bignames_connectivity": [],
+        "super_connectivity": [
+            3
+        ],
+        "year": 1651
+    },
+    "A81166.headed.txt": {
+        "name": "1657-Culpeper",
+        "bignames_cluster": [
+            "cube81_cluster0"
+        ],
+        "superscience_cluster": [
+            "cube109_cluster0"
+        ],
+        "bignames_connectivity": [
+            5
+        ],
+        "super_connectivity": [
+            6
+        ],
+        "year": 1657
+    },
+    "A85920.headed.txt": {
+        "name": "1649-Gerbier",
+        "bignames_cluster": [
+            "cube21_cluster0"
+        ],
+        "superscience_cluster": [
+            "cube43_cluster0"
+        ],
+        "bignames_connectivity": [
+            1
+        ],
+        "super_connectivity": [
+            4
+        ],
+        "year": 1649
+    },
+    "A85921.headed.txt": {
+        "name": "1649-Gerbier",
+        "bignames_cluster": [
+            "cube48_cluster0"
+        ],
+        "superscience_cluster": [
+            "cube82_cluster0"
+        ],
+        "bignames_connectivity": [
+            3
+        ],
+        "super_connectivity": [
+            6
+        ],
+        "year": 1649
+    },
+    "A85922.headed.txt": {
+        "name": "1649-Gerbier",
+        "bignames_cluster": [],
+        "superscience_cluster": [],
+        "bignames_connectivity": [],
+        "super_connectivity": [],
+        "year": 1649
+    },
+    "A85928.headed.txt": {
+        "name": "1649-Gerbier",
+        "bignames_cluster": [],
+        "superscience_cluster": [],
+        "bignames_connectivity": [],
+        "super_connectivity": [],
+        "year": 1649
+    },
+    "A86032.headed.txt": {
+        "name": "1651-Glisson",
+        "bignames_cluster": [
+            "cube68_cluster0",
+            "cube79_cluster0"
+        ],
+        "superscience_cluster": [
+            "cube107_cluster0"
+        ],
+        "bignames_connectivity": [
+            2,
+            3
+        ],
+        "super_connectivity": [
+            4
+        ],
+        "year": 1651
+    },
+    "A86079.headed.txt": {
+        "name": "1653-Harvey",
+        "bignames_cluster": [],
+        "superscience_cluster": [],
+        "bignames_connectivity": [],
+        "super_connectivity": [],
+        "year": 1653
+    },
+    "A86183.headed.txt": {
+        "name": "1650-Helmont",
+        "bignames_cluster": [
+            "cube60_cluster0"
+        ],
+        "superscience_cluster": [
+            "cube84_cluster0"
+        ],
+        "bignames_connectivity": [
+            3
+        ],
+        "super_connectivity": [
+            7
+        ],
+        "year": 1650
+    },
+    "A87710.headed.txt": {
+        "name": "1650-Nicholas",
+        "bignames_cluster": [],
+        "superscience_cluster": [
+            "cube133_cluster0"
+        ],
+        "bignames_connectivity": [],
+        "super_connectivity": [
+            1
+        ],
+        "year": 1650
+    },
+    "A88112.headed.txt": {
+        "name": "1660-Leybourn",
+        "bignames_cluster": [
+            "cube19_cluster0"
+        ],
+        "superscience_cluster": [
+            "cube41_cluster0",
+            "cube42_cluster0",
+            "cube54_cluster0",
+            "cube55_cluster0"
+        ],
+        "bignames_connectivity": [
+            1
+        ],
+        "super_connectivity": [
+            4,
+            6,
+            3,
+            3
+        ],
+        "year": 1660
+    },
+    "A88146.headed.txt": {
+        "name": "1700-Lamb",
+        "bignames_cluster": [],
+        "superscience_cluster": [
+            "cube84_cluster0"
+        ],
+        "bignames_connectivity": [],
+        "super_connectivity": [
+            7
+        ],
+        "year": 1700
+    },
+    "A89088.headed.txt": {
+        "name": "1680-Merret",
+        "bignames_cluster": [],
+        "superscience_cluster": [],
+        "bignames_connectivity": [],
+        "super_connectivity": [],
+        "year": 1680
+    },
+    "A90628.headed.txt": {
+        "name": "1648-Petty",
+        "bignames_cluster": [],
+        "superscience_cluster": [],
+        "bignames_connectivity": [],
+        "super_connectivity": [],
+        "year": 1648
+    },
+    "A91548.headed.txt": {
+        "name": "1694-Peachi",
+        "bignames_cluster": [],
+        "superscience_cluster": [],
+        "bignames_connectivity": [],
+        "super_connectivity": [],
+        "year": 1694
+    },
+    "A92912.headed.txt": {
+        "name": "1662-Sennert",
+        "bignames_cluster": [
+            "cube80_cluster0"
+        ],
+        "superscience_cluster": [
+            "cube107_cluster0",
+            "cube122_cluster0"
+        ],
+        "bignames_connectivity": [
+            2
+        ],
+        "super_connectivity": [
+            4,
+            4
+        ],
+        "year": 1662
+    },
+    "A93593.headed.txt": {
+        "name": "1670-Remmelin",
+        "bignames_cluster": [],
+        "superscience_cluster": [],
+        "bignames_connectivity": [],
+        "super_connectivity": [],
+        "year": 1670
+    },
+    "A96369.headed.txt": {
+        "name": "1656-White",
+        "bignames_cluster": [
+            "cube66_cluster0"
+        ],
+        "superscience_cluster": [
+            "cube105_cluster0"
+        ],
+        "bignames_connectivity": [
+            0
+        ],
+        "super_connectivity": [
+            1
+        ],
+        "year": 1656
+    },
+    "A96634.headed.txt": {
+        "name": "1681-Willis",
+        "bignames_cluster": [
+            "cube60_cluster0"
+        ],
+        "superscience_cluster": [
+            "cube83_cluster0"
+        ],
+        "bignames_connectivity": [
+            3
+        ],
+        "super_connectivity": [
+            6
+        ],
+        "year": 1681
+    },
+    "A97051.headed.txt": {
+        "name": "1656-Wallis",
+        "bignames_cluster": [],
+        "superscience_cluster": [],
+        "bignames_connectivity": [],
+        "super_connectivity": [],
+        "year": 1656
+    },
+    "B00108.headed.txt": {
+        "name": "1623-Gunter",
+        "bignames_cluster": [
+            "cube5_cluster0"
+        ],
+        "superscience_cluster": [
+            "cube26_cluster0",
+            "cube27_cluster0"
+        ],
+        "bignames_connectivity": [
+            1
+        ],
+        "super_connectivity": [
+            2,
+            5
+        ],
+        "year": 1623
+    },
+    "B03739.headed.txt": {
+        "name": "1687-Halley",
+        "bignames_cluster": [],
+        "superscience_cluster": [],
+        "bignames_connectivity": [],
+        "super_connectivity": [],
+        "year": 1687
+    },
+    "B08000.headed.txt": {
+        "name": "1550-Proclus",
+        "bignames_cluster": [],
+        "superscience_cluster": [
+            "cube69_cluster0"
+        ],
+        "bignames_connectivity": [],
+        "super_connectivity": [
+            3
+        ],
+        "year": 1550
+    },
+    "B24252.headed.txt": {
+        "name": "1676-Holland",
+        "bignames_cluster": [],
+        "superscience_cluster": [],
+        "bignames_connectivity": [],
+        "super_connectivity": [],
+        "year": 1676
+    }
+}
